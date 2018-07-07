@@ -9,67 +9,69 @@ async function getResults(search) {
 }
 
 class TweetInput extends Component {
-    constructor(orios) {
+    constructor() {
         super();
         this.state = {
             search: '',
             userIsSearching: false,
             lastAt: 0,
-            results: false,
-            cursorIndex: 0,
+            results: [],
         };
         this.handleOnClick = this.handleOnClick.bind(this);
     }
 
     handleInput = async (e) => {
-        let userIsSearching;
-        let {lastAt, search, results, cursorIndex} = this.state;
+        let {lastAt, search, results, userIsSearching} = this.state;
         const tweet = e.target.value;
         // const keystroke = e.nativeEvent.data;
 
-        // exclude @s that are already resolved.
-        const indexOfLastAtSign = tweet.lastIndexOf('@');
-
         // confirm if user is searching
+        const indexOfLastAtSign = tweet.lastIndexOf('@');
         if (indexOfLastAtSign !== -1) {
+            // extract search from tweet
+            search = tweet.substr(indexOfLastAtSign + 1, tweet.length);
 
-            // omit @ from search
-            search = tweet.substr(indexOfLastAtSign + 1, tweet.length).trim();
+            //check if there is more than one word
+            if (search.split(' ').length > 1) {
+                userIsSearching = false;
+                return this.setState({userIsSearching});
+            }
 
             // if the search is at least 2 characters
             if (search.length > 1) {
                 userIsSearching = true;
-                console.error(search, search.length);
                 results = await
                     getResults(search);
             }
-
+            return this.setState({tweet, search, lastAt, userIsSearching, results});
         }
-
-        this.setState({ tweet, search, lastAt, userIsSearching, results});
-        // debugger;
     };
 
     handleOnClick = (e) => {
         const resultSelected = e.target.textContent;
-        // console.error(resultSelected);
         const tweetElement = document.getElementsByName('tweet_input')[0];
         const tweet = tweetElement.value;
-        // const theSearchStringIndex = this.state.tweet.lastIndexOf(this.state.search);
         tweetElement.value = tweet.replace(this.state.search, resultSelected);
+        tweetElement.focus();
+        this.setState({userIsSearching: false});
+    };
+
+    paintResults = () => {
+        const {results = [], userIsSearching} = this.state;
+        return (userIsSearching && <div>
+            there are some results, {results.map(result => <p key={result.cat}
+                                                              onClick={this.handleOnClick}>{result.cat}</p>)}
+        </div>);
     };
 
     render() {
-        const {tweet, results} = this.state;
+        const {userIsSearching} = this.state;
         return (
             <div>
                 <div>
                     <textarea name="tweet_input" cols="50" rows="10" onInput={this.handleInput}/>
                 </div>
-                {results && <div>
-                    there are some results, {results.map(result => <p key={result.cat}
-                                                                      onClick={this.handleOnClick}>{result.cat}</p>)}
-                </div>}
+                {this.paintResults()}
             </div>
         );
     }
