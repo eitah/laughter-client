@@ -2,46 +2,74 @@ import React, {Component} from 'react';
 
 // import './App.css';
 
+async function getResults(search) {
+    return [
+        {cat: 'dog',},
+    ];
+}
+
 class TweetInput extends Component {
-    state = {
-        value: '',
-        userIsSearching: false,
-        lastFoundAt: 0
-    };
+    constructor(orios) {
+        super();
+        this.state = {
+            search: '',
+            userIsSearching: false,
+            lastAt: 0,
+            results: false,
+            cursorIndex: 0,
+        };
+        this.handleOnClick = this.handleOnClick.bind(this);
+    }
 
-    handleInput = (e) => {
-        const {value} = this.state;
-        const newState = { ...this.state, value: e.target.value };
-        const keystroke = e.nativeEvent.data;
-        console.error(' i had', value);
-        console.error(' i pressed', keystroke);
+    handleInput = async (e) => {
+        let userIsSearching;
+        let {lastAt, search, results, cursorIndex} = this.state;
+        const tweet = e.target.value;
+        // const keystroke = e.nativeEvent.data;
 
-        if (keystroke === '@') {
-            newState.userIsSearching = true;
-            if (value.indexOf('@') !== -1 ) {
-                newState.lastFoundAt = newState.value.length;
+        // exclude @s that are already resolved.
+        const indexOfLastAtSign = tweet.lastIndexOf('@');
+
+        // confirm if user is searching
+        if (indexOfLastAtSign !== -1) {
+
+            // omit @ from search
+            search = tweet.substr(indexOfLastAtSign + 1, tweet.length).trim();
+
+            // if the search is at least 2 characters
+            if (search.length > 1) {
+                userIsSearching = true;
+                console.error(search, search.length);
+                results = await
+                    getResults(search);
             }
-        }
-
-        const tweetLength = newState.value.length;
-        const positionOfAt = newState.value.indexOf('@', newState.lastFoundAt);
-        if (newState.userIsSearching && positionOfAt !== -1) {
-            const lengthAfterTheAt =  tweetLength - positionOfAt - 1; // +1 adjusts for indexof
-            console.error(tweetLength, positionOfAt, lengthAfterTheAt);
 
         }
 
-        this.setState(newState);
+        this.setState({ tweet, search, lastAt, userIsSearching, results});
         // debugger;
     };
 
+    handleOnClick = (e) => {
+        const resultSelected = e.target.textContent;
+        // console.error(resultSelected);
+        const tweetElement = document.getElementsByName('tweet_input')[0];
+        const tweet = tweetElement.value;
+        // const theSearchStringIndex = this.state.tweet.lastIndexOf(this.state.search);
+        tweetElement.value = tweet.replace(this.state.search, resultSelected);
+    };
+
     render() {
-        const {value} = this.state;
+        const {tweet, results} = this.state;
         return (
             <div>
                 <div>
-                    <textarea name="tweet_input" value={value} cols="50" rows="10" onInput={this.handleInput}/>
+                    <textarea name="tweet_input" cols="50" rows="10" onInput={this.handleInput}/>
                 </div>
+                {results && <div>
+                    there are some results, {results.map(result => <p key={result.cat}
+                                                                      onClick={this.handleOnClick}>{result.cat}</p>)}
+                </div>}
             </div>
         );
     }
