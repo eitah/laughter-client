@@ -1,0 +1,33 @@
+.resultRow {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.leftItems {
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+img {
+    /*padding-left: 10px;*/
+    padding: 5px;
+    height: 30px;
+}
+.screenName {
+    font-weight: 700;
+}
+
+.userName {
+    padding: 10px;
+    color: gray;
+}
+
+.verified {
+    font-family:sans-serif;
+    align-self: right;
+    color: gray;
+    padding-right: 10px;
+    font-weight: 100;
+}

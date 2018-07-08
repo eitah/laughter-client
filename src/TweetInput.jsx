@@ -2,7 +2,7 @@ import React, {Component, createRef} from 'react';
 
 import './TweetInput.css';
 import mock from './mock.json';
-import twitterLogoSvg from './Twitter_Logo_Blue.svg';
+import ResultRow from './ResultRow';
 
 const MAX_LENGTH_OF_TWEET = 150;
 
@@ -30,11 +30,11 @@ class TweetInput extends Component {
             tweet: '@ca',
             search: 'ca',
             lastAt: 0,
-            userIsSearching: false,
-            results: mock.users,
+            userIsSearching: true,
+            results: [],
             countRemaining: MAX_LENGTH_OF_TWEET,
         };
-        this.handleOnClick = this.handleOnClick.bind(this);
+        // this.handleOnClick = this.handleOnClick.bind(this);
         this.textarea = createRef();
     }
 
@@ -70,12 +70,12 @@ class TweetInput extends Component {
         }
     };
 
-    handleOnClick = (e) => {
-        const resultSelected = e.target.parentElement.dataset.screenName;
+    handleOnClick = (event, screenName) => {
         const tweetElement = this.textarea.current;
-        tweetElement.value = this.replaceCurrentSearchWithCorrectHandle(resultSelected);
+        tweetElement.value = this.replaceCurrentSearchWithCorrectHandle(screenName);
         tweetElement.focus();
-        this.setState({userIsSearching: false, countRemaining: this.countCharactersRemaining(tweetElement.value)});
+        const countRemaining = this.countCharactersRemaining(tweetElement.value);
+        this.setState({userIsSearching: false, countRemaining});
     };
 
     replaceCurrentSearchWithCorrectHandle = (resultSelected) => {
@@ -88,20 +88,11 @@ class TweetInput extends Component {
     paintResults = () => {
         const {results, userIsSearching} = this.state;
         return (userIsSearching &&
-            <div style={{textAlign: 'left'}}>
-                there are some results for {results.map(user => this.paintUserRow(user))}
+            <div className="resultsOverlay">
+                there are some results for {results.map(user => <ResultRow key={user.id} user={user}
+                                                                           handleOnClick={this.handleOnClick}/>)}
             </div>
         );
-    };
-
-    paintUserRow = (user) => {
-        return (
-            <div key={user.screen_name} data-screen-name={user.screen_name} onClick={this.handleOnClick}>
-                <img src={user.profile_image_url}/>
-                <img src={twitterLogoSvg} style={{height: 20}}/>
-                <span style={{fontWeight: 700}}>@{user.screen_name}</span>
-                <span style={{padding: 10, color: 'gray'}}>{user.name}</span>
-            </div>);
     };
 
     countCharactersRemaining = (tweet = '') => {
@@ -115,18 +106,25 @@ class TweetInput extends Component {
             <div className="countRemaining" style={{
                 color: 'black',
                 opacity: countRemaining / MAX_LENGTH_OF_TWEET,
-            }}>{countRemaining}
-            </div>
+            }}>{countRemaining}</div>
         </React.Fragment>);
     };
 
 
     render() {
         return (
-            <div>
-                {this.renderCountRemaining()}
-                <textarea name="tweet_input" defaultValue="@ca" ref={this.textarea} cols="50" rows="10"
-                          onInput={this.handleInput}/>
+            <div className="wrapper">
+                <div className="background">
+                    <div className="tweetContainer">
+                        {this.renderCountRemaining()}
+                        <textarea
+                            className="tweetInput"
+                            name="tweet_input"
+                            defaultValue="@ca"
+                            ref={this.textarea} cols="50" rows="10"
+                            onInput={this.handleInput}/>
+                    </div>
+                </div>
                 {this.paintResults()}
             </div>
         );

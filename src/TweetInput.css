@@ -1,6 +1,50 @@
+.wrapper {
+  /*padding: 10% 0 0 0;*/
+  /*align-items: center;*/
+  /*position: absolute;*/
+  display: flex;
+  flex-direction: column;
+  z-index: 0;
+}
+
+.background {
+  padding-top: 5%;
+  background: #4D4D4D;
+}
+
+.tweetContainer {
+  /*display: flex;*/
+  /*align-items: center;*/
+  /*justify-content: center;*/
+  position: relative;
+  text-align: center;
+  z-index: 1;
+
+}
+
+.tweetInput {
+  width: 80%
+}
 
 .countRemaining {
+  /*display: inline-block;*/
+  /*text-align: right;*/
+  /*align-self: flex-end;*/
   position: absolute;
-  text-align: right;
+  bottom: 5%;
+  right: 10%;
   color: red;
+  padding: 5px;
+}
+
+.resultsOverlay {
+  display: inline-block;
+  text-align: left;
+  background: white;
+  margin-top: -10px;
+  z-index: 2;
+  border-top: dashed;
+  border-color: gray;
+  width: 80%;
+  margin-left:10%;
 }
