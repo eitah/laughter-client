@@ -4,6 +4,8 @@ import React, {Component, createRef} from 'react';
 import mock from './mock.json';
 import twitterLogoSvg from './Twitter_Logo_Blue.svg';
 
+const MAX_LENGTH_OF_TWEET = 150;
+
 async function getResults(search) {
     return mock.users;
     // try {
@@ -25,11 +27,12 @@ class TweetInput extends Component {
     constructor() {
         super();
         this.state = {
-            tweet: '@',
-            search: '',
-            lastAt: -1,
-            userIsSearching: true,
+            tweet: '@ca',
+            search: 'ca',
+            lastAt: 0,
+            userIsSearching: false,
             results: mock.users,
+            countRemaining: MAX_LENGTH_OF_TWEET,
         };
         this.handleOnClick = this.handleOnClick.bind(this);
         this.textarea = createRef();
@@ -40,26 +43,30 @@ class TweetInput extends Component {
         const tweet = e.target.value;
         const keystroke = e.nativeEvent.data;
 
-        if (keystroke === ' ') {
-            userIsSearching = false;
-            return this.setState({userIsSearching})
-        }
+        const countRemaining = this.countCharactersRemaining(tweet);
 
         const cursorPosition = e.target.selectionStart;
         // confirm if user is searching
         lastAt = tweet.lastIndexOf('@', cursorPosition);
         // console.error('lastAt', lastAt)
         if (lastAt !== -1) {
+            //handle if user stops searching
+            if (tweet.substr(lastAt + 1, tweet.length).split(' ').length > 1) {
+                userIsSearching = false;
+                return this.setState({userIsSearching, countRemaining})
+            }
+
             // extract search from tweet
             search = tweet.substr(lastAt + 1, tweet.length).split(' ')[0];
             // console.error('search', search);
+
 
             // if the search is at least 2 characters
             if (search.length > 1) {
                 userIsSearching = true;
                 results = await getResults(search);
             }
-            return this.setState({tweet, search, lastAt, userIsSearching, results});
+            return this.setState({tweet, search, lastAt, userIsSearching, results, countRemaining});
         }
     };
 
@@ -68,13 +75,13 @@ class TweetInput extends Component {
         const tweetElement = this.textarea.current;
         tweetElement.value = this.replaceCurrentSearchWithCorrectHandle(resultSelected);
         tweetElement.focus();
-        this.setState({userIsSearching: false});
+        this.setState({userIsSearching: false, countRemaining: this.countCharactersRemaining(tweetElement.value)});
     };
 
     replaceCurrentSearchWithCorrectHandle = (resultSelected) => {
         const {search, lastAt, tweet} = this.state;
         const before = tweet.substring(0, lastAt + 1);
-        const after = tweet.substring(lastAt + search.length +1, tweet.length);
+        const after = tweet.substring(lastAt + search.length + 1, tweet.length);
         return before + resultSelected + after;
     };
 
@@ -97,12 +104,36 @@ class TweetInput extends Component {
             </div>);
     };
 
+    countCharactersRemaining = (tweet = '') => {
+        return MAX_LENGTH_OF_TWEET - tweet.length;
+    };
+
+    renderCountRemaining = () => {
+        const {countRemaining} = this.state;
+        return (
+            <React.Fragment>
+                <div style={{
+                    position: 'absolute',
+                    textAlign: 'right',
+                    color: 'red'
+                }}>{countRemaining}</div>
+                <div style={{
+                    position: 'absolute',
+                    textAlign: 'right',
+                    color: 'black',
+                    opacity: countRemaining / MAX_LENGTH_OF_TWEET,
+                }}>{countRemaining}
+                </div>
+            </React.Fragment>);
+    };
+
+
     render() {
         return (
             <div>
-                <div>
-                    <textarea name="tweet_input" defaultValue="@" ref={this.textarea} cols="50" rows="10" onInput={this.handleInput}/>
-                </div>
+                {this.renderCountRemaining()}
+                <textarea name="tweet_input" defaultValue="@ca" ref={this.textarea} cols="50" rows="10"
+                          onInput={this.handleInput}/>
                 {this.paintResults()}
             </div>
         );
