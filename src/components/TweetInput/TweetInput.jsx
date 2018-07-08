@@ -1,10 +1,10 @@
 import React, {Component, createRef} from 'react';
 
-import twitterHandleSearch from '../services/twitterHandleSearch';
+import twitterHandleSearch from '../../services/twitterHandleSearch';
 
 import './TweetInput.css';
-import ResultRow from './ResultRow';
-import CountRemaining from "./CountRemaining";
+import ResultRow from './ResultRow/ResultRow';
+import CountRemaining from "./CountRemaining/CountRemaining";
 
 async function getResults(search) {
     return twitterHandleSearch(search);
