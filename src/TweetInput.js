@@ -1,6 +1,6 @@
 import React, {Component, createRef} from 'react';
 
-// import './App.css';
+import './TweetInput.css';
 import mock from './mock.json';
 import twitterLogoSvg from './Twitter_Logo_Blue.svg';
 
@@ -110,21 +110,14 @@ class TweetInput extends Component {
 
     renderCountRemaining = () => {
         const {countRemaining} = this.state;
-        return (
-            <React.Fragment>
-                <div style={{
-                    position: 'absolute',
-                    textAlign: 'right',
-                    color: 'red'
-                }}>{countRemaining}</div>
-                <div style={{
-                    position: 'absolute',
-                    textAlign: 'right',
-                    color: 'black',
-                    opacity: countRemaining / MAX_LENGTH_OF_TWEET,
-                }}>{countRemaining}
-                </div>
-            </React.Fragment>);
+        return (<React.Fragment>
+            <div className="countRemaining">{countRemaining}</div>
+            <div className="countRemaining" style={{
+                color: 'black',
+                opacity: countRemaining / MAX_LENGTH_OF_TWEET,
+            }}>{countRemaining}
+            </div>
+        </React.Fragment>);
     };
 
 
