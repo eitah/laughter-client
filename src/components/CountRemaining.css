@@ -1,0 +1,7 @@
+.countRemaining {
+    position: absolute;
+    bottom: 5%;
+    right: 10%;
+    color: red;
+    padding: 5px;
+}

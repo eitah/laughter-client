@@ -5,8 +5,8 @@ import twitterHandleSearch from '../services/twitterHandleSearch';
 import './TweetInput.css';
 import mock from '../mock.json';
 import ResultRow from './ResultRow';
-
-const MAX_LENGTH_OF_TWEET = 150;
+import {MAX_LENGTH_OF_TWEET} from '../services/constants';
+import CountRemaining from "./CountRemaining";
 
 async function getResults(search) {
     return twitterHandleSearch(search);
@@ -88,30 +88,19 @@ class TweetInput extends Component {
         return MAX_LENGTH_OF_TWEET - tweet.length;
     };
 
-    renderCountRemaining = () => {
-        const {countRemaining} = this.state;
-        return (<React.Fragment>
-            <div className="countRemaining">{countRemaining}</div>
-            <div className="countRemaining" style={{
-                color: 'black',
-                opacity: countRemaining / MAX_LENGTH_OF_TWEET,
-            }}>{countRemaining}</div>
-        </React.Fragment>);
-    };
-
-
     render() {
+        const {countRemaining} = this.state;
         return (
             <div className="wrapper">
                 <div className="background">
                     <div className="tweetContainer">
-                        {this.renderCountRemaining()}
                         <textarea
                             className="tweetInput"
                             name="tweet_input"
                             defaultValue="@ca"
                             ref={this.textarea} cols="50" rows="10"
                             onInput={this.handleInput}/>
+                        <CountRemaining countRemaining={countRemaining}/>
                     </div>
                 </div>
                 {this.paintResults()}

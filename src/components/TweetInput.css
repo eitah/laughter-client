@@ -26,17 +26,6 @@
   width: 80%
 }
 
-.countRemaining {
-  /*display: inline-block;*/
-  /*text-align: right;*/
-  /*align-self: flex-end;*/
-  position: absolute;
-  bottom: 5%;
-  right: 10%;
-  color: red;
-  padding: 5px;
-}
-
 .resultsOverlay {
   display: inline-block;
   text-align: left;
