@@ -18,12 +18,11 @@
           <file leaf-file-name="TweetInput.jsx" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/TweetInput.jsx">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="224">
-                  <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+                <state relative-caret-position="129">
+                  <caret line="95" column="26" lean-forward="false" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="26" />
                   <folding>
-                    <element signature="e#2119#2362#0" expanded="false" />
-                    <marker date="1531082632000" expanded="true" signature="2593:2886" ph="..." />
-                    <marker date="1531082632000" expanded="true" signature="2595:2861" ph="..." />
+                    <marker date="1531089566000" expanded="true" signature="3767:4060" ph="..." />
+                    <marker date="1531089566000" expanded="true" signature="3769:4035" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -66,7 +65,7 @@
           <file leaf-file-name="CountRemaining.jsx" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/components/CountRemaining.jsx">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
+                <state relative-caret-position="36">
                   <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
                   <folding />
                 </state>
@@ -88,6 +87,7 @@
       <find>map</find>
       <find>style</find>
       <find>count</find>
+      <find>userIsSearching</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -362,12 +362,12 @@
       <updated>1530792613110</updated>
       <workItem from="1530792614625" duration="4304000" />
       <workItem from="1530831457731" duration="7800000" />
-      <workItem from="1530918406539" duration="40218000" />
+      <workItem from="1530918406539" duration="45782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52322000" />
+    <option name="totallyTimeSpent" value="57886000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -484,9 +484,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2119#2362#0" expanded="false" />
-            <marker date="1531082632000" expanded="true" signature="2593:2886" ph="..." />
-            <marker date="1531082632000" expanded="true" signature="2595:2861" ph="..." />
+            <marker date="1531089566000" expanded="true" signature="3767:4060" ph="..." />
+            <marker date="1531089566000" expanded="true" signature="3769:4035" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1083,7 +1082,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/CountRemaining.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="36">
           <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
           <folding />
         </state>
@@ -1091,12 +1090,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/TweetInput.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        <state relative-caret-position="129">
+          <caret line="95" column="26" lean-forward="false" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="26" />
           <folding>
-            <element signature="e#2119#2362#0" expanded="false" />
-            <marker date="1531082632000" expanded="true" signature="2593:2886" ph="..." />
-            <marker date="1531082632000" expanded="true" signature="2595:2861" ph="..." />
+            <marker date="1531089566000" expanded="true" signature="3767:4060" ph="..." />
+            <marker date="1531089566000" expanded="true" signature="3769:4035" ph="..." />
           </folding>
         </state>
       </provider>
