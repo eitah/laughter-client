@@ -3,9 +3,7 @@ import React, {Component, createRef} from 'react';
 import twitterHandleSearch from '../services/twitterHandleSearch';
 
 import './TweetInput.css';
-import mock from '../mock.json';
 import ResultRow from './ResultRow';
-import {MAX_LENGTH_OF_TWEET} from '../services/constants';
 import CountRemaining from "./CountRemaining";
 
 async function getResults(search) {
@@ -16,14 +14,12 @@ class TweetInput extends Component {
     constructor() {
         super();
         this.state = {
-            tweet: '@ca',
-            search: 'ca',
-            lastAt: 0,
-            userIsSearching: true,
+            tweet: '',
+            search: '',
+            lastAt: -1,
+            userIsSearching: false,
             results: [],
-            countRemaining: MAX_LENGTH_OF_TWEET,
         };
-        // this.handleOnClick = this.handleOnClick.bind(this);
         this.textarea = createRef();
     }
 
@@ -31,8 +27,6 @@ class TweetInput extends Component {
         let {lastAt, search, results, userIsSearching} = this.state;
         const tweet = e.target.value;
         const keystroke = e.nativeEvent.data;
-
-        const countRemaining = this.countCharactersRemaining(tweet);
 
         const cursorPosition = e.target.selectionStart;
         // confirm if user is searching
@@ -42,7 +36,7 @@ class TweetInput extends Component {
             //handle if user stops searching
             if (tweet.substr(lastAt + 1, tweet.length).split(' ').length > 1) {
                 userIsSearching = false;
-                return this.setState({userIsSearching, countRemaining})
+                return this.setState({userIsSearching, tweet})
             }
 
             // extract search from tweet
@@ -55,16 +49,16 @@ class TweetInput extends Component {
                 userIsSearching = true;
                 results = await getResults(search);
             }
-            return this.setState({tweet, search, lastAt, userIsSearching, results, countRemaining});
+            return this.setState({tweet, search, lastAt, userIsSearching, results});
         }
     };
 
     handleOnClick = (event, screenName) => {
+        const tweet = this.replaceCurrentSearchWithCorrectHandle(screenName);
         const tweetElement = this.textarea.current;
-        tweetElement.value = this.replaceCurrentSearchWithCorrectHandle(screenName);
+        tweetElement.value = tweet;
         tweetElement.focus();
-        const countRemaining = this.countCharactersRemaining(tweetElement.value);
-        this.setState({userIsSearching: false, countRemaining});
+        this.setState({userIsSearching: false, tweet});
     };
 
     replaceCurrentSearchWithCorrectHandle = (resultSelected) => {
@@ -74,36 +68,26 @@ class TweetInput extends Component {
         return before + resultSelected + after;
     };
 
-    paintResults = () => {
-        const {results, userIsSearching} = this.state;
-        return (userIsSearching &&
-            <div className="resultsOverlay">
-                there are some results for {results.map(user => <ResultRow key={user.id} user={user}
-                                                                           handleOnClick={this.handleOnClick}/>)}
-            </div>
-        );
-    };
-
-    countCharactersRemaining = (tweet = '') => {
-        return MAX_LENGTH_OF_TWEET - tweet.length;
-    };
-
     render() {
-        const {countRemaining} = this.state;
+        const {tweet, results, userIsSearching} = this.state;
         return (
             <div className="wrapper">
                 <div className="background">
                     <div className="tweetContainer">
                         <textarea
                             className="tweetInput"
-                            name="tweet_input"
-                            defaultValue="@ca"
                             ref={this.textarea} cols="50" rows="10"
                             onInput={this.handleInput}/>
-                        <CountRemaining countRemaining={countRemaining}/>
+                        <CountRemaining tweet={tweet}/>
                     </div>
                 </div>
-                {this.paintResults()}
+                {userIsSearching &&
+                <div className="resultsOverlay">
+                    {results.map(user => <ResultRow
+                        key={user.id}
+                        user={user}
+                        handleOnClick={this.handleOnClick}/>)}
+                </div>}
             </div>
         );
     }
