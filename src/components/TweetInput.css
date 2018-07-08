@@ -43,8 +43,11 @@
   background: white;
   margin-top: -10px;
   z-index: 2;
+  border: solid;
   border-top: dashed;
   border-color: gray;
+  border-width: thin;
   width: 80%;
   margin-left:10%;
+  box-shadow: 0 10px 20px #ccc;
 }

@@ -1,5 +1,5 @@
 import React from 'react';
-import twitterLogoSvg from './Twitter_Logo_Blue.svg';
+import twitterLogoSvg from '../assets/Twitter_Logo_Blue.svg';
 import './ResultRow.css'
 
 class ResultRow extends React.PureComponent {

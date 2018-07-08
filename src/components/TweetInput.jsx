@@ -1,26 +1,15 @@
 import React, {Component, createRef} from 'react';
 
+import twitterHandleSearch from '../services/twitterHandleSearch';
+
 import './TweetInput.css';
-import mock from './mock.json';
+import mock from '../mock.json';
 import ResultRow from './ResultRow';
 
 const MAX_LENGTH_OF_TWEET = 150;
 
 async function getResults(search) {
-    return mock.users;
-    // try {
-    //     const url = `http://localhost:4000/twitter/user/search?username=${search}`;
-    //     const response = await fetch(url);
-    //     if (!response.ok) {
-    //         throw new Error(`getResults from twitter user search for string ${search} failed with status ${response.status}`)
-    //     }
-    //     let json = await response.json();
-    //     return json.users
-    // }
-    // catch (e) {
-    //     console.error(e && e.message);
-    //     return [];
-    // }
+    return twitterHandleSearch(search);
 }
 
 class TweetInput extends Component {

@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import TweetInput from './TweetInput';
+import TweetInput from './components/TweetInput';
 
 class App extends Component {
     render() {
