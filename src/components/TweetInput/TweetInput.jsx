@@ -1,5 +1,4 @@
 import React, {Component, createRef} from 'react';
-
 import twitterHandleSearch from '../../services/twitterHandleSearch';
 
 import './TweetInput.css';
@@ -11,12 +10,14 @@ async function getResults(search) {
 }
 
 function getCurrentWord({tweet, cursorPosition}) {
-    const startOfCurrentWord = tweet.lastIndexOf(' ', cursorPosition) + 1;
-    let endOfCurrentWord = tweet.indexOf(' ', cursorPosition);
-    if (endOfCurrentWord === -1) {
-        endOfCurrentWord = tweet.length
-    }
-    const currentWord = tweet.substring(startOfCurrentWord, endOfCurrentWord);
+    const lastEnter = tweet.lastIndexOf('\n', cursorPosition) + 1;
+    const lastSpace = tweet.lastIndexOf(' ', cursorPosition) + 1;
+    const startOfCurrentWord = Math.max(lastEnter, lastSpace);
+
+    const nextWhitespace = tweet.substr(startOfCurrentWord).match(/\s/);
+    const endOfCurrentWord = (nextWhitespace) ? startOfCurrentWord + nextWhitespace.index : tweet.length;
+
+    let currentWord = tweet.substring(startOfCurrentWord, endOfCurrentWord);
     return {currentWord, startOfCurrentWord};
 }
 

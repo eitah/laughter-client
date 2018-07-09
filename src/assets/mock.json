@@ -1,0 +1,3124 @@
+{
+  "users": [
+    {
+      "id": 16830572,
+      "id_str": "16830572",
+      "name": "Chicago magazine",
+      "screen_name": "ChicagoMag",
+      "location": "Chicago, IL",
+      "description": "We are Chicago.",
+      "url": "http://t.co/pjMc1tVshE",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/pjMc1tVshE",
+              "expanded_url": "http://www.chicagomag.com",
+              "display_url": "chicagomag.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 263898,
+      "friends_count": 337,
+      "listed_count": 3166,
+      "created_at": "Fri Oct 17 20:24:52 +0000 2008",
+      "favourites_count": 7014,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 35805,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Jul 07 14:00:01 +0000 2018",
+        "id": 1015596299033276400,
+        "id_str": "1015596299033276416",
+        "text": "ICYMI: The Brewers Are Keeping Pace with the Cubs by Imitating Them https://t.co/9heQDzgZzY",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/9heQDzgZzY",
+              "expanded_url": "http://www.chicagomag.com/city-life/July-2018/The-Brewers-Are-Keeping-Pace-With-the-Cubs-By-Imitating-Them/",
+              "display_url": "chicagomag.com/city-life/July…",
+              "indices": [
+                68,
+                91
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/730118729124712448/VyvhUvdA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/730118729124712448/VyvhUvdA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16830572/1487094034",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F5F5F5",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 7313362,
+      "id_str": "7313362",
+      "name": "Chicago Tribune",
+      "screen_name": "chicagotribune",
+      "location": "Chicago, IL",
+      "description": "Breaking news since 1847.",
+      "url": "https://t.co/gaVbUBEf0t",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/gaVbUBEf0t",
+              "expanded_url": "http://chicagotribune.com",
+              "display_url": "chicagotribune.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1061858,
+      "friends_count": 395,
+      "listed_count": 11244,
+      "created_at": "Sat Jul 07 14:10:07 +0000 2007",
+      "favourites_count": 356,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 157874,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Jul 07 15:14:36 +0000 2018",
+        "id": 1015615068837380100,
+        "id_str": "1015615068837380096",
+        "text": "RT @JeremyGorner: Marchers setting up at 79th and State. There holding up a cross that says \"STOP SHOOTING.\" This cross is simple to one th…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "JeremyGorner",
+              "name": "Jeremy Gorner",
+              "id": 22977915,
+              "id_str": "22977915",
+              "indices": [
+                3,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Sat Jul 07 15:10:46 +0000 2018",
+          "id": 1015614105779101700,
+          "id_str": "1015614105779101697",
+          "text": "Marchers setting up at 79th and State. There holding up a cross that says \"STOP SHOOTING.\" This cross is simple to… https://t.co/6tueKnDy6n",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/6tueKnDy6n",
+                "expanded_url": "https://twitter.com/i/web/status/1015614105779101697",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 6,
+          "favorite_count": 10,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "E1E1E1",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/497063779952099328/kwXnsWCE_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/497063779952099328/kwXnsWCE_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/7313362/1522549258",
+      "profile_link_color": "336699",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E8F3F7",
+      "profile_text_color": "414141",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    {
+      "id": 342782636,
+      "id_str": "342782636",
+      "name": "cta",
+      "screen_name": "cta",
+      "location": "Chicago, IL",
+      "description": "Chicago Transit Authority updates/news/more. Not monitored 24/7: in emergency, ALWAYS tell nearest employee/call 911. Full service: https://t.co/Nyd9MaUli2.",
+      "url": "http://t.co/rw91DEMoRY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/rw91DEMoRY",
+              "expanded_url": "http://www.transitchicago.com",
+              "display_url": "transitchicago.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/Nyd9MaUli2",
+              "expanded_url": "http://transitchicago.com/feedback",
+              "display_url": "transitchicago.com/feedback",
+              "indices": [
+                132,
+                155
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 233291,
+      "friends_count": 72,
+      "listed_count": 1296,
+      "created_at": "Tue Jul 26 15:37:01 +0000 2011",
+      "favourites_count": 539,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 45308,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Jul 07 15:00:24 +0000 2018",
+        "id": 1015611494422151200,
+        "id_str": "1015611494422151168",
+        "text": "Headed to see @Chosen_Few_DJS, @STYXtheband, @joanjett  or @wnbachicagosky or just want to jam at @westfestchicago?… https://t.co/BknRnb4Nom",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Chosen_Few_DJS",
+              "name": "The Chosen Few DJs™",
+              "id": 348118518,
+              "id_str": "348118518",
+              "indices": [
+                14,
+                29
+              ]
+            },
+            {
+              "screen_name": "STYXtheBand",
+              "name": "Styx",
+              "id": 39271212,
+              "id_str": "39271212",
+              "indices": [
+                31,
+                43
+              ]
+            },
+            {
+              "screen_name": "joanjett",
+              "name": "Joan Jett",
+              "id": 12803352,
+              "id_str": "12803352",
+              "indices": [
+                45,
+                54
+              ]
+            },
+            {
+              "screen_name": "wnbachicagosky",
+              "name": "Chicago Sky",
+              "id": 42517286,
+              "id_str": "42517286",
+              "indices": [
+                59,
+                74
+              ]
+            },
+            {
+              "screen_name": "westfestchicago",
+              "name": "West Fest Chicago",
+              "id": 15598492,
+              "id_str": "15598492",
+              "indices": [
+                98,
+                114
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/BknRnb4Nom",
+              "expanded_url": "https://twitter.com/i/web/status/1015611494422151168",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "191919",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1617237207/cta-logo---flattransp_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1617237207/cta-logo---flattransp_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/342782636/1529608721",
+      "profile_link_color": "0065BD",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 21677316,
+      "id_str": "21677316",
+      "name": "Chicago Fire",
+      "screen_name": "ChicagoFire",
+      "location": "Bridgeview, IL",
+      "description": "Chicago Fire Soccer Club #cf97 @MLS",
+      "url": "https://t.co/bSbWjZ0VyC",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/bSbWjZ0VyC",
+              "expanded_url": "http://www.chicago-fire.com/",
+              "display_url": "chicago-fire.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 159484,
+      "friends_count": 1708,
+      "listed_count": 2343,
+      "created_at": "Mon Feb 23 18:30:29 +0000 2009",
+      "favourites_count": 4323,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 38976,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Jul 07 14:32:10 +0000 2018",
+        "id": 1015604390542106600,
+        "id_str": "1015604390542106629",
+        "text": "RT @John_Kass: For months they've trained together on that lonely road back from injury, the Lion &amp; the Kid, pushing each other through men…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "John_Kass",
+              "name": "John Kass",
+              "id": 592968976,
+              "id_str": "592968976",
+              "indices": [
+                3,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Sat Jul 07 14:17:47 +0000 2018",
+          "id": 1015600771935686700,
+          "id_str": "1015600771935686657",
+          "text": "For months they've trained together on that lonely road back from injury, the Lion &amp; the Kid, pushing each other th… https://t.co/jpxuhuWOKR",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/jpxuhuWOKR",
+                "expanded_url": "https://twitter.com/i/web/status/1015600771935686657",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  121,
+                  144
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 4,
+          "favorite_count": 39,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1005666531508830209/Juoeu7Vy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005666531508830209/Juoeu7Vy_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21677316/1526856505",
+      "profile_link_color": "B61D22",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 17001104,
+      "id_str": "17001104",
+      "name": "Megan Crepeau",
+      "screen_name": "crepeau",
+      "location": "Chicago",
+      "description": "Chicago Tribune reporter covering criminal courts. Proud @ctguild organizer. Dog person. mcrepeau@chicagotribune.com",
+      "url": "https://t.co/gaVbUBVQp3",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/gaVbUBVQp3",
+              "expanded_url": "http://chicagotribune.com",
+              "display_url": "chicagotribune.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7617,
+      "friends_count": 1400,
+      "listed_count": 313,
+      "created_at": "Mon Oct 27 16:09:25 +0000 2008",
+      "favourites_count": 19326,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 26297,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Jul 07 14:16:14 +0000 2018",
+        "id": 1015600380015767600,
+        "id_str": "1015600380015767553",
+        "text": "Signs available for pickup at the gathering point near 79/Ryan. March slated to start at 10 https://t.co/cgS4p7z358",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1015600361825062900,
+              "id_str": "1015600361825062912",
+              "indices": [
+                92,
+                115
+              ],
+              "media_url": "http://pbs.twimg.com/media/DhgjJfBXUAAMQn3.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DhgjJfBXUAAMQn3.jpg",
+              "url": "https://t.co/cgS4p7z358",
+              "display_url": "pic.twitter.com/cgS4p7z358",
+              "expanded_url": "https://twitter.com/crepeau/status/1015600380015767553/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1015600361825062900,
+              "id_str": "1015600361825062912",
+              "indices": [
+                92,
+                115
+              ],
+              "media_url": "http://pbs.twimg.com/media/DhgjJfBXUAAMQn3.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DhgjJfBXUAAMQn3.jpg",
+              "url": "https://t.co/cgS4p7z358",
+              "display_url": "pic.twitter.com/cgS4p7z358",
+              "expanded_url": "https://twitter.com/crepeau/status/1015600380015767553/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1015594736940351500,
+        "in_reply_to_status_id_str": "1015594736940351488",
+        "in_reply_to_user_id": 17001104,
+        "in_reply_to_user_id_str": "17001104",
+        "in_reply_to_screen_name": "crepeau",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/984067395835846656/chc4YdLl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/984067395835846656/chc4YdLl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17001104/1523455023",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 438620792,
+      "id_str": "438620792",
+      "name": "Maudlyne Ihejirika",
+      "screen_name": "maudlynei",
+      "location": "Chicago, Illinois",
+      "description": "Chicago SunTimes Urbn Affrs Rprtr/Asst City Edtr w/25yrs in Jrnlsm, Pblc Rels; @UIowa @MedillSchool alum; @AKAsorority1908; Prez/@NABJCC http://t.co/LEqnJqOP",
+      "url": "http://t.co/UmuhkeLFXz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/UmuhkeLFXz",
+              "expanded_url": "http://www.suntimes.com",
+              "display_url": "suntimes.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/LEqnJqOP",
+              "expanded_url": "http://www.facebook.com/maudlyne.ihejirika",
+              "display_url": "facebook.com/maudlyne.iheji…",
+              "indices": [
+                137,
+                157
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4313,
+      "friends_count": 2696,
+      "listed_count": 290,
+      "created_at": "Fri Dec 16 20:23:16 +0000 2011",
+      "favourites_count": 3218,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 46576,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Jul 07 03:42:11 +0000 2018",
+        "id": 1015440818289762300,
+        "id_str": "1015440818289762305",
+        "text": "RT @akasorority1908: Safe travels to all those traveling to the 68th Boule in Houston, TX! Tell us what you're looking forward to the most…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "akasorority1908",
+              "name": "Alpha Kappa Alpha",
+              "id": 1289524746,
+              "id_str": "1289524746",
+              "indices": [
+                3,
+                19
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Fri Jul 06 00:09:07 +0000 2018",
+          "id": 1015024810030534700,
+          "id_str": "1015024810030534656",
+          "text": "Safe travels to all those traveling to the 68th Boule in Houston, TX! Tell us what you're looking forward to the mo… https://t.co/WxIIqoGcBe",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/WxIIqoGcBe",
+                "expanded_url": "https://twitter.com/i/web/status/1015024810030534656",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 137,
+          "favorite_count": 480,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 137,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/935251901574189056/zKU3ILj8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/935251901574189056/zKU3ILj8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/438620792/1490141374",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 18148466,
+      "id_str": "18148466",
+      "name": "Crain's Chicago",
+      "screen_name": "CrainsChicago",
+      "location": "Chicago",
+      "description": "The news you need to succeed in Chicago. We cover startups, real estate, politics, dining and lots in between.",
+      "url": "https://t.co/vYvngKwux2",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vYvngKwux2",
+              "expanded_url": "http://www.chicagobusiness.com",
+              "display_url": "chicagobusiness.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 210055,
+      "friends_count": 40571,
+      "listed_count": 3269,
+      "created_at": "Mon Dec 15 22:18:57 +0000 2008",
+      "favourites_count": 5249,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 71851,
+      "lang": "en",
+      "status": {
+        "created_at": "Fri Jul 06 21:56:47 +0000 2018",
+        "id": 1015353895277793300,
+        "id_str": "1015353895277793280",
+        "text": "Illinois properties accounted for 11 of the 100 highest commercial property tax bills nationwide in 2017 https://t.co/JYU8Mbw0HN",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/JYU8Mbw0HN",
+              "expanded_url": "http://cra.in/ZCmanMs",
+              "display_url": "cra.in/ZCmanMs",
+              "indices": [
+                105,
+                128
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1231909459/C-thumbnail-copy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231909459/C-thumbnail-copy_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18148466/1530912701",
+      "profile_link_color": "111C8F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D6D6D6",
+      "profile_text_color": "0A0000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 24939832,
+      "id_str": "24939832",
+      "name": "Chicago ParkDistrict",
+      "screen_name": "ChicagoParks",
+      "location": "Chicago, IL",
+      "description": "The official Twitter page for the Chicago Park District. 597 parks, 26 miles of lakefront, 70 nature areas, & hundreds programs.This page is not monitored 24-7.",
+      "url": "https://t.co/IsmalOTv8A",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/IsmalOTv8A",
+              "expanded_url": "http://www.chicagoparkdistrict.com",
+              "display_url": "chicagoparkdistrict.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 54174,
+      "friends_count": 1736,
+      "listed_count": 1055,
+      "created_at": "Tue Mar 17 19:43:39 +0000 2009",
+      "favourites_count": 4215,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 11602,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Jul 07 13:01:12 +0000 2018",
+        "id": 1015581497749844000,
+        "id_str": "1015581497749843970",
+        "text": "Showing tonight 7/7/18\nJumanji: Welcome to the Jungle  (PG-13) at OzPark\nLooney Tunes Cartoon Pack #4 (NR) at India… https://t.co/GXeM5rVw64",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/GXeM5rVw64",
+              "expanded_url": "https://twitter.com/i/web/status/1015581497749843970",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1431C7",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/799676777165717508/SqBtgEfK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/799676777165717508/SqBtgEfK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/24939832/1526914082",
+      "profile_link_color": "93A644",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "15612D",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 14693265,
+      "id_str": "14693265",
+      "name": "Rick Pearson",
+      "screen_name": "rap30",
+      "location": "Chicago, IL",
+      "description": "Chicago Tribune political reporter Host of The Sunday Spin 7-9 am Sundays on WGN-AM (720). Tweets are my own. RTs don’t = endorsement.",
+      "url": "https://t.co/gaVbUBVQp3",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/gaVbUBVQp3",
+              "expanded_url": "http://chicagotribune.com",
+              "display_url": "chicagotribune.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9308,
+      "friends_count": 870,
+      "listed_count": 453,
+      "created_at": "Wed May 07 23:12:22 +0000 2008",
+      "favourites_count": 5992,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 18649,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Jul 07 05:17:48 +0000 2018",
+        "id": 1015464878994272300,
+        "id_str": "1015464878994272256",
+        "text": "RT @chicagotribune: A look at Saturday's Tribune front page: stories by @JohnKeilman @_johnbyrne @JeremyGorner @neacynewslady and photos by…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chicagotribune",
+              "name": "Chicago Tribune",
+              "id": 7313362,
+              "id_str": "7313362",
+              "indices": [
+                3,
+                18
+              ]
+            },
+            {
+              "screen_name": "JohnKeilman",
+              "name": "John Keilman",
+              "id": 11544782,
+              "id_str": "11544782",
+              "indices": [
+                72,
+                84
+              ]
+            },
+            {
+              "screen_name": "_johnbyrne",
+              "name": "John Byrne",
+              "id": 22962886,
+              "id_str": "22962886",
+              "indices": [
+                85,
+                96
+              ]
+            },
+            {
+              "screen_name": "JeremyGorner",
+              "name": "Jeremy Gorner",
+              "id": 22977915,
+              "id_str": "22977915",
+              "indices": [
+                97,
+                110
+              ]
+            },
+            {
+              "screen_name": "neacynewslady",
+              "name": "Deanese'Neacy'Harris",
+              "id": 35633601,
+              "id_str": "35633601",
+              "indices": [
+                111,
+                125
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Sat Jul 07 04:57:05 +0000 2018",
+          "id": 1015459667873550300,
+          "id_str": "1015459667873550336",
+          "text": "A look at Saturday's Tribune front page: stories by @JohnKeilman @_johnbyrne @JeremyGorner @neacynewslady and photo… https://t.co/uF4v9MnTqJ",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "JohnKeilman",
+                "name": "John Keilman",
+                "id": 11544782,
+                "id_str": "11544782",
+                "indices": [
+                  52,
+                  64
+                ]
+              },
+              {
+                "screen_name": "_johnbyrne",
+                "name": "John Byrne",
+                "id": 22962886,
+                "id_str": "22962886",
+                "indices": [
+                  65,
+                  76
+                ]
+              },
+              {
+                "screen_name": "JeremyGorner",
+                "name": "Jeremy Gorner",
+                "id": 22977915,
+                "id_str": "22977915",
+                "indices": [
+                  77,
+                  90
+                ]
+              },
+              {
+                "screen_name": "neacynewslady",
+                "name": "Deanese'Neacy'Harris",
+                "id": 35633601,
+                "id_str": "35633601",
+                "indices": [
+                  91,
+                  105
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/uF4v9MnTqJ",
+                "expanded_url": "https://twitter.com/i/web/status/1015459667873550336",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 8,
+          "favorite_count": 9,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/618596341585854465/cjak7dV1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/618596341585854465/cjak7dV1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14693265/1434743191",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 17783380,
+      "id_str": "17783380",
+      "name": "Liam T.A. Ford",
+      "screen_name": "ltaford",
+      "location": "Chicago",
+      "description": "Trib since '98. Beekeeper. Chicagoan. Soldier Field book https://t.co/Hj3bXIuuQc",
+      "url": "https://t.co/MiAMIgCRIZ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/MiAMIgCRIZ",
+              "expanded_url": "http://www.chicagotribune.com",
+              "display_url": "chicagotribune.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/Hj3bXIuuQc",
+              "expanded_url": "http://amazon.com/author/liamford",
+              "display_url": "amazon.com/author/liamford",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4738,
+      "friends_count": 4010,
+      "listed_count": 261,
+      "created_at": "Mon Dec 01 17:12:14 +0000 2008",
+      "favourites_count": 3888,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 16421,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Jul 07 14:07:06 +0000 2018",
+        "id": 1015598081180651500,
+        "id_str": "1015598081180651520",
+        "text": "RT @JeremyGorner: Marchers and church reps from St. Sabina set up at 79th and State streets. https://t.co/g6cME9GtZb",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "JeremyGorner",
+              "name": "Jeremy Gorner",
+              "id": 22977915,
+              "id_str": "22977915",
+              "indices": [
+                3,
+                16
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1015597494489829400,
+              "id_str": "1015597494489829378",
+              "indices": [
+                93,
+                116
+              ],
+              "media_url": "http://pbs.twimg.com/media/DhggilXX0AIdaty.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DhggilXX0AIdaty.jpg",
+              "url": "https://t.co/g6cME9GtZb",
+              "display_url": "pic.twitter.com/g6cME9GtZb",
+              "expanded_url": "https://twitter.com/JeremyGorner/status/1015597502811246592/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 1015597502811246600,
+              "source_status_id_str": "1015597502811246592",
+              "source_user_id": 22977915,
+              "source_user_id_str": "22977915"
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1015597494489829400,
+              "id_str": "1015597494489829378",
+              "indices": [
+                93,
+                116
+              ],
+              "media_url": "http://pbs.twimg.com/media/DhggilXX0AIdaty.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DhggilXX0AIdaty.jpg",
+              "url": "https://t.co/g6cME9GtZb",
+              "display_url": "pic.twitter.com/g6cME9GtZb",
+              "expanded_url": "https://twitter.com/JeremyGorner/status/1015597502811246592/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 1015597502811246600,
+              "source_status_id_str": "1015597502811246592",
+              "source_user_id": 22977915,
+              "source_user_id_str": "22977915"
+            },
+            {
+              "id": 1015597494716248000,
+              "id_str": "1015597494716248064",
+              "indices": [
+                93,
+                116
+              ],
+              "media_url": "http://pbs.twimg.com/media/DhggimNWsAAf7Rt.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DhggimNWsAAf7Rt.jpg",
+              "url": "https://t.co/g6cME9GtZb",
+              "display_url": "pic.twitter.com/g6cME9GtZb",
+              "expanded_url": "https://twitter.com/JeremyGorner/status/1015597502811246592/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 1015597502811246600,
+              "source_status_id_str": "1015597502811246592",
+              "source_user_id": 22977915,
+              "source_user_id_str": "22977915"
+            },
+            {
+              "id": 1015597494397530100,
+              "id_str": "1015597494397530112",
+              "indices": [
+                93,
+                116
+              ],
+              "media_url": "http://pbs.twimg.com/media/DhggilBXcAAoqKk.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DhggilBXcAAoqKk.jpg",
+              "url": "https://t.co/g6cME9GtZb",
+              "display_url": "pic.twitter.com/g6cME9GtZb",
+              "expanded_url": "https://twitter.com/JeremyGorner/status/1015597502811246592/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 1015597502811246600,
+              "source_status_id_str": "1015597502811246592",
+              "source_user_id": 22977915,
+              "source_user_id_str": "22977915"
+            },
+            {
+              "id": 1015597494389084200,
+              "id_str": "1015597494389084160",
+              "indices": [
+                93,
+                116
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dhggik_WkAAujtm.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dhggik_WkAAujtm.jpg",
+              "url": "https://t.co/g6cME9GtZb",
+              "display_url": "pic.twitter.com/g6cME9GtZb",
+              "expanded_url": "https://twitter.com/JeremyGorner/status/1015597502811246592/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 1015597502811246600,
+              "source_status_id_str": "1015597502811246592",
+              "source_user_id": 22977915,
+              "source_user_id_str": "22977915"
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Sat Jul 07 14:04:48 +0000 2018",
+          "id": 1015597502811246600,
+          "id_str": "1015597502811246592",
+          "text": "Marchers and church reps from St. Sabina set up at 79th and State streets. https://t.co/g6cME9GtZb",
+          "truncated": false,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+              {
+                "id": 1015597494489829400,
+                "id_str": "1015597494489829378",
+                "indices": [
+                  75,
+                  98
+                ],
+                "media_url": "http://pbs.twimg.com/media/DhggilXX0AIdaty.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DhggilXX0AIdaty.jpg",
+                "url": "https://t.co/g6cME9GtZb",
+                "display_url": "pic.twitter.com/g6cME9GtZb",
+                "expanded_url": "https://twitter.com/JeremyGorner/status/1015597502811246592/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "id": 1015597494489829400,
+                "id_str": "1015597494489829378",
+                "indices": [
+                  75,
+                  98
+                ],
+                "media_url": "http://pbs.twimg.com/media/DhggilXX0AIdaty.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DhggilXX0AIdaty.jpg",
+                "url": "https://t.co/g6cME9GtZb",
+                "display_url": "pic.twitter.com/g6cME9GtZb",
+                "expanded_url": "https://twitter.com/JeremyGorner/status/1015597502811246592/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                  }
+                }
+              },
+              {
+                "id": 1015597494716248000,
+                "id_str": "1015597494716248064",
+                "indices": [
+                  75,
+                  98
+                ],
+                "media_url": "http://pbs.twimg.com/media/DhggimNWsAAf7Rt.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DhggimNWsAAf7Rt.jpg",
+                "url": "https://t.co/g6cME9GtZb",
+                "display_url": "pic.twitter.com/g6cME9GtZb",
+                "expanded_url": "https://twitter.com/JeremyGorner/status/1015597502811246592/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                  }
+                }
+              },
+              {
+                "id": 1015597494397530100,
+                "id_str": "1015597494397530112",
+                "indices": [
+                  75,
+                  98
+                ],
+                "media_url": "http://pbs.twimg.com/media/DhggilBXcAAoqKk.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/DhggilBXcAAoqKk.jpg",
+                "url": "https://t.co/g6cME9GtZb",
+                "display_url": "pic.twitter.com/g6cME9GtZb",
+                "expanded_url": "https://twitter.com/JeremyGorner/status/1015597502811246592/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                  }
+                }
+              },
+              {
+                "id": 1015597494389084200,
+                "id_str": "1015597494389084160",
+                "indices": [
+                  75,
+                  98
+                ],
+                "media_url": "http://pbs.twimg.com/media/Dhggik_WkAAujtm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/Dhggik_WkAAujtm.jpg",
+                "url": "https://t.co/g6cME9GtZb",
+                "display_url": "pic.twitter.com/g6cME9GtZb",
+                "expanded_url": "https://twitter.com/JeremyGorner/status/1015597502811246592/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 510,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 2048,
+                    "h": 1536,
+                    "resize": "fit"
+                  },
+                  "medium": {
+                    "w": 1200,
+                    "h": 900,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 5,
+          "favorite_count": 7,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/994381611578904577/0blRpFxz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/994381611578904577/0blRpFxz_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17783380/1525913679",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 580649124,
+      "id_str": "580649124",
+      "name": "Kim Janssen",
+      "screen_name": "kimjnews",
+      "location": "Chicago IL",
+      "description": "Chicago Tribune/ \"like Kardashian, or Jong-un\"",
+      "url": "https://t.co/gaVbUBVQp3",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/gaVbUBVQp3",
+              "expanded_url": "http://chicagotribune.com",
+              "display_url": "chicagotribune.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4269,
+      "friends_count": 1754,
+      "listed_count": 215,
+      "created_at": "Tue May 15 05:16:27 +0000 2012",
+      "favourites_count": 6856,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 15188,
+      "lang": "en",
+      "status": {
+        "created_at": "Thu Jul 05 23:59:00 +0000 2018",
+        "id": 1015022261873541100,
+        "id_str": "1015022261873541120",
+        "text": "RT @chicagotribune: Taste of Chicago performers won't get their requested Pepperidge Farm cookies, \"good beer\" or Centrum, according to con…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "chicagotribune",
+              "name": "Chicago Tribune",
+              "id": 7313362,
+              "id_str": "7313362",
+              "indices": [
+                3,
+                18
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Thu Jul 05 23:16:22 +0000 2018",
+          "id": 1015011534735585300,
+          "id_str": "1015011534735585281",
+          "text": "Taste of Chicago performers won't get their requested Pepperidge Farm cookies, \"good beer\" or Centrum, according to… https://t.co/tDoXHPC9jy",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/tDoXHPC9jy",
+                "expanded_url": "https://twitter.com/i/web/status/1015011534735585281",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 6,
+          "favorite_count": 13,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/693300771979411456/NTgY2Mv8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/693300771979411456/NTgY2Mv8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/580649124/1520623782",
+      "profile_link_color": "B30000",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 126371225,
+      "id_str": "126371225",
+      "name": "Tony Briscoe",
+      "screen_name": "_TonyBriscoe",
+      "location": "Chicago, Ill.",
+      "description": "@ChicagoTribune reporter w/ interests in climate science, the Great Lakes and everyday neighborhood news.  Email: tbriscoe@chicagotribune.com",
+      "url": "https://t.co/MiAMIgCRIZ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/MiAMIgCRIZ",
+              "expanded_url": "http://www.chicagotribune.com",
+              "display_url": "chicagotribune.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3859,
+      "friends_count": 1186,
+      "listed_count": 205,
+      "created_at": "Thu Mar 25 17:10:57 +0000 2010",
+      "favourites_count": 1610,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 6980,
+      "lang": "en",
+      "status": {
+        "created_at": "Fri Jul 06 19:34:00 +0000 2018",
+        "id": 1015317960842514400,
+        "id_str": "1015317960842514432",
+        "text": "RT @nytclimate: Environmental rules being rolled back under Donald Trump:\n🏭 Air pollution &amp; emissions: 18\n🛢️ Drilling &amp; extraction: 17\n🌉 In…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "nytclimate",
+              "name": "NYT Climate",
+              "id": 14603515,
+              "id_str": "14603515",
+              "indices": [
+                3,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Fri Jul 06 15:53:02 +0000 2018",
+          "id": 1015262353552805900,
+          "id_str": "1015262353552805888",
+          "text": "Environmental rules being rolled back under Donald Trump:\n🏭 Air pollution &amp; emissions: 18\n🛢️ Drilling &amp; extraction:… https://t.co/HOsjrrE4Oa",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/HOsjrrE4Oa",
+                "expanded_url": "https://twitter.com/i/web/status/1015262353552805888",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  125,
+                  148
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 870,
+          "favorite_count": 501,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 870,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1005171926367723521/oOL0lH0E_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005171926367723521/oOL0lH0E_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/126371225/1523454995",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 23513475,
+      "id_str": "23513475",
+      "name": "Angela Rozas O'Toole",
+      "screen_name": "AngelaRozas",
+      "location": "Chicago",
+      "description": "Deputy metro editor @ChicagoTribune. Music lover, coffee drinker and follower of barometric pressure",
+      "url": "http://t.co/MiAMIgCRIZ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/MiAMIgCRIZ",
+              "expanded_url": "http://www.chicagotribune.com",
+              "display_url": "chicagotribune.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2416,
+      "friends_count": 554,
+      "listed_count": 113,
+      "created_at": "Mon Mar 09 22:21:36 +0000 2009",
+      "favourites_count": 91,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 2193,
+      "lang": "en",
+      "status": {
+        "created_at": "Fri Jun 01 14:19:12 +0000 2018",
+        "id": 1002555165314932700,
+        "id_str": "1002555165314932736",
+        "text": "Chicago schools fail to protect students from sexual abuse and assault, leaving lasting damage https://t.co/TdUP1Z5Pqv",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/TdUP1Z5Pqv",
+              "expanded_url": "http://graphics.chicagotribune.com/chicago-public-schools-sexual-abuse/index.html",
+              "display_url": "graphics.chicagotribune.com/chicago-public…",
+              "indices": [
+                95,
+                118
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1795122163/angelachristmas_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1795122163/angelachristmas_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23513475/1406918285",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 937179288,
+      "id_str": "937179288",
+      "name": "Lolly Bowean",
+      "screen_name": "lollybowean",
+      "location": "Chicago. Cambridge",
+      "description": "Writer. Storyteller. 2017 Harvard University Nieman Fellow. Reporter. News Enthusiast. Self-Appointed Community Helper. Music Lover. Listener.",
+      "url": "https://t.co/gaVbUBVQp3",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/gaVbUBVQp3",
+              "expanded_url": "http://chicagotribune.com",
+              "display_url": "chicagotribune.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4215,
+      "friends_count": 2382,
+      "listed_count": 168,
+      "created_at": "Fri Nov 09 15:46:57 +0000 2012",
+      "favourites_count": 19046,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15514,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Jul 07 01:23:45 +0000 2018",
+        "id": 1015405977917640700,
+        "id_str": "1015405977917640705",
+        "text": "RT @Longreads: Ukrainian author and poet @serhiy_zhadan writes about resisting corruption and coping with loss in a society that is spirali…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Longreads",
+              "name": "Longreads",
+              "id": 32423136,
+              "id_str": "32423136",
+              "indices": [
+                3,
+                13
+              ]
+            },
+            {
+              "screen_name": "serhiy_zhadan",
+              "name": "Serhiy Zhadan",
+              "id": 831898156048740400,
+              "id_str": "831898156048740352",
+              "indices": [
+                41,
+                55
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Sat Jul 07 01:20:04 +0000 2018",
+          "id": 1015405053102952400,
+          "id_str": "1015405053102952448",
+          "text": "Ukrainian author and poet @serhiy_zhadan writes about resisting corruption and coping with loss in a society that i… https://t.co/JPhyuYAyEq",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "serhiy_zhadan",
+                "name": "Serhiy Zhadan",
+                "id": 831898156048740400,
+                "id_str": "831898156048740352",
+                "indices": [
+                  26,
+                  40
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/JPhyuYAyEq",
+                "expanded_url": "https://twitter.com/i/web/status/1015405053102952448",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 5,
+          "favorite_count": 11,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/816130174110593025/Ic-QDgpK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/816130174110593025/Ic-QDgpK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/937179288/1483415572",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 36451429,
+      "id_str": "36451429",
+      "name": "Samantha Bomkamp",
+      "screen_name": "SamWillTravel",
+      "location": "Chicago",
+      "description": "Business reporter for the @ChicagoTribune. Former digital type. Obsessed with the ocean, elephants and Sophie the Dog.",
+      "url": "http://t.co/MiAMIglgkp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/MiAMIglgkp",
+              "expanded_url": "http://www.chicagotribune.com",
+              "display_url": "chicagotribune.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4163,
+      "friends_count": 2385,
+      "listed_count": 213,
+      "created_at": "Wed Apr 29 19:27:15 +0000 2009",
+      "favourites_count": 1238,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3626,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Jul 07 00:03:52 +0000 2018",
+        "id": 1015385875889483800,
+        "id_str": "1015385875889483776",
+        "text": "This is the one place in Illinois where a trade war is a good thing https://t.co/w5XzHjErEr",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/w5XzHjErEr",
+              "expanded_url": "http://www.chicagotribune.com/business/ct-biz-granite-city-us-steel-trump-tariffs-20180708-story.html",
+              "display_url": "chicagotribune.com/business/ct-bi…",
+              "indices": [
+                68,
+                91
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "B2DFDA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/436579011808874496/LhbYNWX8_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/436579011808874496/LhbYNWX8_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/36451429/1446569866",
+      "profile_link_color": "93A644",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 329856131,
+      "id_str": "329856131",
+      "name": "Juan Perez Jr.",
+      "screen_name": "PerezJr",
+      "location": "Chicago",
+      "description": "#CPS reporter @chicagotribune. Nebraskan. Tips, questions, care packages, hate mail? DM or email jjperez@chicagotribune.com → RT's could mean anything.",
+      "url": "http://t.co/iVG9VlFD4a",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/iVG9VlFD4a",
+              "expanded_url": "http://chicagotribune.com",
+              "display_url": "chicagotribune.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2856,
+      "friends_count": 983,
+      "listed_count": 142,
+      "created_at": "Tue Jul 05 18:37:14 +0000 2011",
+      "favourites_count": 4046,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 6151,
+      "lang": "en",
+      "status": {
+        "created_at": "Fri Jul 06 15:17:52 +0000 2018",
+        "id": 1015253504061997000,
+        "id_str": "1015253504061997056",
+        "text": "A new open-enrollment high school on the Near West Side is part of a $989M CPS capital plan now planned for FY19. C… https://t.co/4uxhdeDKd8",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/4uxhdeDKd8",
+              "expanded_url": "https://twitter.com/i/web/status/1015253504061997056",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2165635783/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2165635783/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/329856131/1426426096",
+      "profile_link_color": "103F91",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 16688883,
+      "id_str": "16688883",
+      "name": "Lookingglass Theatre",
+      "screen_name": "gglasstheatre",
+      "location": "Michigan Avenue, Chicago IL",
+      "description": "Recipient of the 2011 Regional Theater Tony Award. Live theatre in the historic Water Tower Water Works.",
+      "url": "https://t.co/hXzxzqmfgk",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/hXzxzqmfgk",
+              "expanded_url": "https://lookingglasstheatre.org/event/20k/",
+              "display_url": "lookingglasstheatre.org/event/20k/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 15876,
+      "friends_count": 4155,
+      "listed_count": 525,
+      "created_at": "Fri Oct 10 20:47:44 +0000 2008",
+      "favourites_count": 4307,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2951,
+      "lang": "en",
+      "status": {
+        "created_at": "Fri Jul 06 20:21:58 +0000 2018",
+        "id": 1015330033307668500,
+        "id_str": "1015330033307668480",
+        "text": "Hey @neymarjr why don’t you come see 20,000 Leagues Under the Seas? It’s perfect for anyone who loves acting, and s… https://t.co/KLpHDqehPu",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "neymarjr",
+              "name": "Neymar Jr",
+              "id": 158487331,
+              "id_str": "158487331",
+              "indices": [
+                4,
+                13
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/KLpHDqehPu",
+              "expanded_url": "https://twitter.com/i/web/status/1015330033307668480",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 50,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/61689576/WTWW_Exterior_Night_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/61689576/WTWW_Exterior_Night_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16688883/1358281298",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 14957318,
+      "id_str": "14957318",
+      "name": "NBC Chicago",
+      "screen_name": "nbcchicago",
+      "location": "Chicago, IL",
+      "description": "Thank you for stopping by @NBCChicago - the place to go for exclusive local stories, the latest breaking news, weather updates and more.",
+      "url": "http://t.co/S9JTJrKI8A",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/S9JTJrKI8A",
+              "expanded_url": "http://www.nbcchicago.com/",
+              "display_url": "nbcchicago.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 427822,
+      "friends_count": 1509,
+      "listed_count": 4061,
+      "created_at": "Fri May 30 19:27:34 +0000 2008",
+      "favourites_count": 89,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 152345,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Jul 07 15:17:20 +0000 2018",
+        "id": 1015615758737526800,
+        "id_str": "1015615758737526792",
+        "text": "LIVE COVERAGE: Protesters are now marching onto the Dan Ryan Expressway along with a police escort. Sky 5 is over t… https://t.co/I97gCGyCZF",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/I97gCGyCZF",
+              "expanded_url": "https://twitter.com/i/web/status/1015615758737526792",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ECECF5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/973684495604883456/bq86JyPW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/973684495604883456/bq86JyPW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14957318/1520979423",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FAFAFA",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 17028405,
+      "id_str": "17028405",
+      "name": "ABC 7 Chicago",
+      "screen_name": "ABC7Chicago",
+      "location": "Chicago, Illinois",
+      "description": "Follow ABC 7 Chicago news  for Chicago news, weather, sports and the most experienced Chicago news team",
+      "url": "http://t.co/TUM8nkoDIM",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/TUM8nkoDIM",
+              "expanded_url": "http://abc7chicago.com",
+              "display_url": "abc7chicago.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 756436,
+      "friends_count": 1519,
+      "listed_count": 3515,
+      "created_at": "Tue Oct 28 20:47:08 +0000 2008",
+      "favourites_count": 230,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 148282,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Jul 07 15:19:43 +0000 2018",
+        "id": 1015616356954312700,
+        "id_str": "1015616356954312705",
+        "text": "Protesters are now making their way onto the Dan Ryan Expressway: https://t.co/PIactnJsqg https://t.co/UydjJc1WYE",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/PIactnJsqg",
+              "expanded_url": "https://abc7.ws/2uesgE6",
+              "display_url": "abc7.ws/2uesgE6",
+              "indices": [
+                66,
+                89
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 1015616343217881100,
+              "id_str": "1015616343217881089",
+              "indices": [
+                90,
+                113
+              ],
+              "media_url": "http://pbs.twimg.com/media/DhgxruWVQAEsfcX.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DhgxruWVQAEsfcX.jpg",
+              "url": "https://t.co/UydjJc1WYE",
+              "display_url": "pic.twitter.com/UydjJc1WYE",
+              "expanded_url": "https://twitter.com/ABC7Chicago/status/1015616356954312705/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1015616343217881100,
+              "id_str": "1015616343217881089",
+              "indices": [
+                90,
+                113
+              ],
+              "media_url": "http://pbs.twimg.com/media/DhgxruWVQAEsfcX.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DhgxruWVQAEsfcX.jpg",
+              "url": "https://t.co/UydjJc1WYE",
+              "display_url": "pic.twitter.com/UydjJc1WYE",
+              "expanded_url": "https://twitter.com/ABC7Chicago/status/1015616356954312705/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1F27B5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/459816045805436928/ooGeailg_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/459816045805436928/ooGeailg_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17028405/1398460985",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    {
+      "id": 12811952,
+      "id_str": "12811952",
+      "name": "Chicago Sun-Times",
+      "screen_name": "Suntimes",
+      "location": "Chicago, IL",
+      "description": "#SupportSunTimes #Chicago\nThe hardest-working paper in America. A voice to the powerless, holding the powerful accountable. Subscribe and help us survive.",
+      "url": "https://t.co/1vIQpfvXiH",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/1vIQpfvXiH",
+              "expanded_url": "https://chicago.suntimes.com/subscribe/",
+              "display_url": "chicago.suntimes.com/subscribe/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 485437,
+      "friends_count": 14456,
+      "listed_count": 6000,
+      "created_at": "Tue Jan 29 02:38:26 +0000 2008",
+      "favourites_count": 4806,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 127292,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Jul 07 15:20:03 +0000 2018",
+        "id": 1015616440467157000,
+        "id_str": "1015616440467156994",
+        "text": "GCA Educational Services Central States Inc. was recommended for the lucrative, three-year deal to manage facilitie… https://t.co/qneDhPkiwC",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/qneDhPkiwC",
+              "expanded_url": "https://twitter.com/i/web/status/1015616440467156994",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/985223834243493888/Hjb8ei6L_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/985223834243493888/Hjb8ei6L_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/12811952/1522877783",
+      "profile_link_color": "DC020A",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    }
+  ],
+  "response": {
+    "statusCode": 200,
+    "body": "[{\"id\":16830572,\"id_str\":\"16830572\",\"name\":\"Chicago magazine\",\"screen_name\":\"ChicagoMag\",\"location\":\"Chicago, IL\",\"description\":\"We are Chicago.\",\"url\":\"http:\\/\\/t.co\\/pjMc1tVshE\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"http:\\/\\/t.co\\/pjMc1tVshE\",\"expanded_url\":\"http:\\/\\/www.chicagomag.com\",\"display_url\":\"chicagomag.com\",\"indices\":[0,22]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":263898,\"friends_count\":337,\"listed_count\":3166,\"created_at\":\"Fri Oct 17 20:24:52 +0000 2008\",\"favourites_count\":7014,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":false,\"verified\":true,\"statuses_count\":35805,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Jul 07 14:00:01 +0000 2018\",\"id\":1015596299033276416,\"id_str\":\"1015596299033276416\",\"text\":\"ICYMI: The Brewers Are Keeping Pace with the Cubs by Imitating Them https:\\/\\/t.co\\/9heQDzgZzY\",\"truncated\":false,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/9heQDzgZzY\",\"expanded_url\":\"http:\\/\\/www.chicagomag.com\\/city-life\\/July-2018\\/The-Brewers-Are-Keeping-Pace-With-the-Cubs-By-Imitating-Them\\/\",\"display_url\":\"chicagomag.com\\/city-life\\/July\\u2026\",\"indices\":[68,91]}]},\"source\":\"\\u003ca href=\\\"https:\\/\\/about.twitter.com\\/products\\/tweetdeck\\\" rel=\\\"nofollow\\\"\\u003eTweetDeck\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":0,\"favorite_count\":0,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"FFFFFF\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/730118729124712448\\/VyvhUvdA_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/730118729124712448\\/VyvhUvdA_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/16830572\\/1487094034\",\"profile_link_color\":\"0084B4\",\"profile_sidebar_border_color\":\"FFFFFF\",\"profile_sidebar_fill_color\":\"F5F5F5\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"has_extended_profile\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":7313362,\"id_str\":\"7313362\",\"name\":\"Chicago Tribune\",\"screen_name\":\"chicagotribune\",\"location\":\"Chicago, IL\",\"description\":\"Breaking news since 1847.\",\"url\":\"https:\\/\\/t.co\\/gaVbUBEf0t\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/gaVbUBEf0t\",\"expanded_url\":\"http:\\/\\/chicagotribune.com\",\"display_url\":\"chicagotribune.com\",\"indices\":[0,23]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":1061858,\"friends_count\":395,\"listed_count\":11244,\"created_at\":\"Sat Jul 07 14:10:07 +0000 2007\",\"favourites_count\":356,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":false,\"verified\":true,\"statuses_count\":157874,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Jul 07 15:14:36 +0000 2018\",\"id\":1015615068837380096,\"id_str\":\"1015615068837380096\",\"text\":\"RT @JeremyGorner: Marchers setting up at 79th and State. There holding up a cross that says \\\"STOP SHOOTING.\\\" This cross is simple to one th\\u2026\",\"truncated\":false,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"JeremyGorner\",\"name\":\"Jeremy Gorner\",\"id\":22977915,\"id_str\":\"22977915\",\"indices\":[3,16]}],\"urls\":[]},\"source\":\"\\u003ca href=\\\"https:\\/\\/about.twitter.com\\/products\\/tweetdeck\\\" rel=\\\"nofollow\\\"\\u003eTweetDeck\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"retweeted_status\":{\"created_at\":\"Sat Jul 07 15:10:46 +0000 2018\",\"id\":1015614105779101697,\"id_str\":\"1015614105779101697\",\"text\":\"Marchers setting up at 79th and State. There holding up a cross that says \\\"STOP SHOOTING.\\\" This cross is simple to\\u2026 https:\\/\\/t.co\\/6tueKnDy6n\",\"truncated\":true,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/6tueKnDy6n\",\"expanded_url\":\"https:\\/\\/twitter.com\\/i\\/web\\/status\\/1015614105779101697\",\"display_url\":\"twitter.com\\/i\\/web\\/status\\/1\\u2026\",\"indices\":[116,139]}]},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\/download\\/iphone\\\" rel=\\\"nofollow\\\"\\u003eTwitter for iPhone\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":6,\"favorite_count\":10,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"is_quote_status\":false,\"retweet_count\":6,\"favorite_count\":0,\"favorited\":false,\"retweeted\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"E1E1E1\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/497063779952099328\\/kwXnsWCE_normal.jpeg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/497063779952099328\\/kwXnsWCE_normal.jpeg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/7313362\\/1522549258\",\"profile_link_color\":\"336699\",\"profile_sidebar_border_color\":\"FFFFFF\",\"profile_sidebar_fill_color\":\"E8F3F7\",\"profile_text_color\":\"414141\",\"profile_use_background_image\":false,\"has_extended_profile\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":true,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"regular\"},{\"id\":342782636,\"id_str\":\"342782636\",\"name\":\"cta\",\"screen_name\":\"cta\",\"location\":\"Chicago, IL\",\"description\":\"Chicago Transit Authority updates\\/news\\/more. Not monitored 24\\/7: in emergency, ALWAYS tell nearest employee\\/call 911. Full service: https:\\/\\/t.co\\/Nyd9MaUli2.\",\"url\":\"http:\\/\\/t.co\\/rw91DEMoRY\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"http:\\/\\/t.co\\/rw91DEMoRY\",\"expanded_url\":\"http:\\/\\/www.transitchicago.com\",\"display_url\":\"transitchicago.com\",\"indices\":[0,22]}]},\"description\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/Nyd9MaUli2\",\"expanded_url\":\"http:\\/\\/transitchicago.com\\/feedback\",\"display_url\":\"transitchicago.com\\/feedback\",\"indices\":[132,155]}]}},\"protected\":false,\"followers_count\":233291,\"friends_count\":72,\"listed_count\":1296,\"created_at\":\"Tue Jul 26 15:37:01 +0000 2011\",\"favourites_count\":539,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":true,\"verified\":true,\"statuses_count\":45308,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Jul 07 15:00:24 +0000 2018\",\"id\":1015611494422151168,\"id_str\":\"1015611494422151168\",\"text\":\"Headed to see @Chosen_Few_DJS, @STYXtheband, @joanjett  or @wnbachicagosky or just want to jam at @westfestchicago?\\u2026 https:\\/\\/t.co\\/BknRnb4Nom\",\"truncated\":true,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"Chosen_Few_DJS\",\"name\":\"The Chosen Few DJs\\u2122\",\"id\":348118518,\"id_str\":\"348118518\",\"indices\":[14,29]},{\"screen_name\":\"STYXtheBand\",\"name\":\"Styx\",\"id\":39271212,\"id_str\":\"39271212\",\"indices\":[31,43]},{\"screen_name\":\"joanjett\",\"name\":\"Joan Jett\",\"id\":12803352,\"id_str\":\"12803352\",\"indices\":[45,54]},{\"screen_name\":\"wnbachicagosky\",\"name\":\"Chicago Sky\",\"id\":42517286,\"id_str\":\"42517286\",\"indices\":[59,74]},{\"screen_name\":\"westfestchicago\",\"name\":\"West Fest Chicago\",\"id\":15598492,\"id_str\":\"15598492\",\"indices\":[98,114]}],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/BknRnb4Nom\",\"expanded_url\":\"https:\\/\\/twitter.com\\/i\\/web\\/status\\/1015611494422151168\",\"display_url\":\"twitter.com\\/i\\/web\\/status\\/1\\u2026\",\"indices\":[117,140]}]},\"source\":\"\\u003ca href=\\\"https:\\/\\/www.hootsuite.com\\\" rel=\\\"nofollow\\\"\\u003eHootsuite Inc.\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":1,\"favorite_count\":0,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"191919\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/1617237207\\/cta-logo---flattransp_normal.png\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1617237207\\/cta-logo---flattransp_normal.png\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/342782636\\/1529608721\",\"profile_link_color\":\"0065BD\",\"profile_sidebar_border_color\":\"C0DEED\",\"profile_sidebar_fill_color\":\"DDEEF6\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"has_extended_profile\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":21677316,\"id_str\":\"21677316\",\"name\":\"Chicago Fire\",\"screen_name\":\"ChicagoFire\",\"location\":\"Bridgeview, IL\",\"description\":\"Chicago Fire Soccer Club #cf97 @MLS\",\"url\":\"https:\\/\\/t.co\\/bSbWjZ0VyC\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/bSbWjZ0VyC\",\"expanded_url\":\"http:\\/\\/www.chicago-fire.com\\/\",\"display_url\":\"chicago-fire.com\",\"indices\":[0,23]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":159484,\"friends_count\":1708,\"listed_count\":2343,\"created_at\":\"Mon Feb 23 18:30:29 +0000 2009\",\"favourites_count\":4323,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":true,\"verified\":true,\"statuses_count\":38976,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Jul 07 14:32:10 +0000 2018\",\"id\":1015604390542106629,\"id_str\":\"1015604390542106629\",\"text\":\"RT @John_Kass: For months they've trained together on that lonely road back from injury, the Lion &amp; the Kid, pushing each other through men\\u2026\",\"truncated\":false,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"John_Kass\",\"name\":\"John Kass\",\"id\":592968976,\"id_str\":\"592968976\",\"indices\":[3,13]}],\"urls\":[]},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\/download\\/iphone\\\" rel=\\\"nofollow\\\"\\u003eTwitter for iPhone\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"retweeted_status\":{\"created_at\":\"Sat Jul 07 14:17:47 +0000 2018\",\"id\":1015600771935686657,\"id_str\":\"1015600771935686657\",\"text\":\"For months they've trained together on that lonely road back from injury, the Lion &amp; the Kid, pushing each other th\\u2026 https:\\/\\/t.co\\/jpxuhuWOKR\",\"truncated\":true,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/jpxuhuWOKR\",\"expanded_url\":\"https:\\/\\/twitter.com\\/i\\/web\\/status\\/1015600771935686657\",\"display_url\":\"twitter.com\\/i\\/web\\/status\\/1\\u2026\",\"indices\":[121,144]}]},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\\" rel=\\\"nofollow\\\"\\u003eTwitter Web Client\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":4,\"favorite_count\":39,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"is_quote_status\":false,\"retweet_count\":4,\"favorite_count\":0,\"favorited\":false,\"retweeted\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"131516\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme14\\/bg.gif\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme14\\/bg.gif\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/1005666531508830209\\/Juoeu7Vy_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1005666531508830209\\/Juoeu7Vy_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/21677316\\/1526856505\",\"profile_link_color\":\"B61D22\",\"profile_sidebar_border_color\":\"FFFFFF\",\"profile_sidebar_fill_color\":\"EFEFEF\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"has_extended_profile\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":17001104,\"id_str\":\"17001104\",\"name\":\"Megan Crepeau\",\"screen_name\":\"crepeau\",\"location\":\"Chicago\",\"description\":\"Chicago Tribune reporter covering criminal courts. Proud @ctguild organizer. Dog person. mcrepeau@chicagotribune.com\",\"url\":\"https:\\/\\/t.co\\/gaVbUBVQp3\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/gaVbUBVQp3\",\"expanded_url\":\"http:\\/\\/chicagotribune.com\",\"display_url\":\"chicagotribune.com\",\"indices\":[0,23]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":7617,\"friends_count\":1400,\"listed_count\":313,\"created_at\":\"Mon Oct 27 16:09:25 +0000 2008\",\"favourites_count\":19326,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":true,\"verified\":true,\"statuses_count\":26297,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Jul 07 14:16:14 +0000 2018\",\"id\":1015600380015767553,\"id_str\":\"1015600380015767553\",\"text\":\"Signs available for pickup at the gathering point near 79\\/Ryan. March slated to start at 10 https:\\/\\/t.co\\/cgS4p7z358\",\"truncated\":false,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[],\"media\":[{\"id\":1015600361825062912,\"id_str\":\"1015600361825062912\",\"indices\":[92,115],\"media_url\":\"http:\\/\\/pbs.twimg.com\\/media\\/DhgjJfBXUAAMQn3.jpg\",\"media_url_https\":\"https:\\/\\/pbs.twimg.com\\/media\\/DhgjJfBXUAAMQn3.jpg\",\"url\":\"https:\\/\\/t.co\\/cgS4p7z358\",\"display_url\":\"pic.twitter.com\\/cgS4p7z358\",\"expanded_url\":\"https:\\/\\/twitter.com\\/crepeau\\/status\\/1015600380015767553\\/photo\\/1\",\"type\":\"photo\",\"sizes\":{\"small\":{\"w\":680,\"h\":510,\"resize\":\"fit\"},\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"medium\":{\"w\":1200,\"h\":900,\"resize\":\"fit\"},\"large\":{\"w\":2048,\"h\":1536,\"resize\":\"fit\"}}}]},\"extended_entities\":{\"media\":[{\"id\":1015600361825062912,\"id_str\":\"1015600361825062912\",\"indices\":[92,115],\"media_url\":\"http:\\/\\/pbs.twimg.com\\/media\\/DhgjJfBXUAAMQn3.jpg\",\"media_url_https\":\"https:\\/\\/pbs.twimg.com\\/media\\/DhgjJfBXUAAMQn3.jpg\",\"url\":\"https:\\/\\/t.co\\/cgS4p7z358\",\"display_url\":\"pic.twitter.com\\/cgS4p7z358\",\"expanded_url\":\"https:\\/\\/twitter.com\\/crepeau\\/status\\/1015600380015767553\\/photo\\/1\",\"type\":\"photo\",\"sizes\":{\"small\":{\"w\":680,\"h\":510,\"resize\":\"fit\"},\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"medium\":{\"w\":1200,\"h\":900,\"resize\":\"fit\"},\"large\":{\"w\":2048,\"h\":1536,\"resize\":\"fit\"}}}]},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\/download\\/iphone\\\" rel=\\\"nofollow\\\"\\u003eTwitter for iPhone\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":1015594736940351488,\"in_reply_to_status_id_str\":\"1015594736940351488\",\"in_reply_to_user_id\":17001104,\"in_reply_to_user_id_str\":\"17001104\",\"in_reply_to_screen_name\":\"crepeau\",\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":2,\"favorite_count\":2,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"EDECE9\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme3\\/bg.gif\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme3\\/bg.gif\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/984067395835846656\\/chc4YdLl_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/984067395835846656\\/chc4YdLl_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/17001104\\/1523455023\",\"profile_link_color\":\"088253\",\"profile_sidebar_border_color\":\"D3D2CF\",\"profile_sidebar_fill_color\":\"E3E2DE\",\"profile_text_color\":\"634047\",\"profile_use_background_image\":true,\"has_extended_profile\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":438620792,\"id_str\":\"438620792\",\"name\":\"Maudlyne Ihejirika\",\"screen_name\":\"maudlynei\",\"location\":\"Chicago, Illinois\",\"description\":\"Chicago SunTimes Urbn Affrs Rprtr\\/Asst City Edtr w\\/25yrs in Jrnlsm, Pblc Rels; @UIowa @MedillSchool alum; @AKAsorority1908; Prez\\/@NABJCC http:\\/\\/t.co\\/LEqnJqOP\",\"url\":\"http:\\/\\/t.co\\/UmuhkeLFXz\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"http:\\/\\/t.co\\/UmuhkeLFXz\",\"expanded_url\":\"http:\\/\\/www.suntimes.com\",\"display_url\":\"suntimes.com\",\"indices\":[0,22]}]},\"description\":{\"urls\":[{\"url\":\"http:\\/\\/t.co\\/LEqnJqOP\",\"expanded_url\":\"http:\\/\\/www.facebook.com\\/maudlyne.ihejirika\",\"display_url\":\"facebook.com\\/maudlyne.iheji\\u2026\",\"indices\":[137,157]}]}},\"protected\":false,\"followers_count\":4313,\"friends_count\":2696,\"listed_count\":290,\"created_at\":\"Fri Dec 16 20:23:16 +0000 2011\",\"favourites_count\":3218,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":true,\"verified\":true,\"statuses_count\":46576,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Jul 07 03:42:11 +0000 2018\",\"id\":1015440818289762305,\"id_str\":\"1015440818289762305\",\"text\":\"RT @akasorority1908: Safe travels to all those traveling to the 68th Boule in Houston, TX! Tell us what you're looking forward to the most\\u2026\",\"truncated\":false,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"akasorority1908\",\"name\":\"Alpha Kappa Alpha\",\"id\":1289524746,\"id_str\":\"1289524746\",\"indices\":[3,19]}],\"urls\":[]},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\\" rel=\\\"nofollow\\\"\\u003eTwitter Web Client\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"retweeted_status\":{\"created_at\":\"Fri Jul 06 00:09:07 +0000 2018\",\"id\":1015024810030534656,\"id_str\":\"1015024810030534656\",\"text\":\"Safe travels to all those traveling to the 68th Boule in Houston, TX! Tell us what you're looking forward to the mo\\u2026 https:\\/\\/t.co\\/WxIIqoGcBe\",\"truncated\":true,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/WxIIqoGcBe\",\"expanded_url\":\"https:\\/\\/twitter.com\\/i\\/web\\/status\\/1015024810030534656\",\"display_url\":\"twitter.com\\/i\\/web\\/status\\/1\\u2026\",\"indices\":[117,140]}]},\"source\":\"\\u003ca href=\\\"https:\\/\\/www.hootsuite.com\\\" rel=\\\"nofollow\\\"\\u003eHootsuite Inc.\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":137,\"favorite_count\":480,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"is_quote_status\":false,\"retweet_count\":137,\"favorite_count\":0,\"favorited\":false,\"retweeted\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"0099B9\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme4\\/bg.gif\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme4\\/bg.gif\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/935251901574189056\\/zKU3ILj8_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/935251901574189056\\/zKU3ILj8_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/438620792\\/1490141374\",\"profile_link_color\":\"0099B9\",\"profile_sidebar_border_color\":\"5ED4DC\",\"profile_sidebar_fill_color\":\"95E8EC\",\"profile_text_color\":\"3C3940\",\"profile_use_background_image\":true,\"has_extended_profile\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":18148466,\"id_str\":\"18148466\",\"name\":\"Crain's Chicago\",\"screen_name\":\"CrainsChicago\",\"location\":\"Chicago\",\"description\":\"The news you need to succeed in Chicago. We cover startups, real estate, politics, dining and lots in between.\",\"url\":\"https:\\/\\/t.co\\/vYvngKwux2\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/vYvngKwux2\",\"expanded_url\":\"http:\\/\\/www.chicagobusiness.com\",\"display_url\":\"chicagobusiness.com\",\"indices\":[0,23]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":210055,\"friends_count\":40571,\"listed_count\":3269,\"created_at\":\"Mon Dec 15 22:18:57 +0000 2008\",\"favourites_count\":5249,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":true,\"verified\":true,\"statuses_count\":71851,\"lang\":\"en\",\"status\":{\"created_at\":\"Fri Jul 06 21:56:47 +0000 2018\",\"id\":1015353895277793280,\"id_str\":\"1015353895277793280\",\"text\":\"Illinois properties accounted for 11 of the 100 highest commercial property tax bills nationwide in 2017 https:\\/\\/t.co\\/JYU8Mbw0HN\",\"truncated\":false,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/JYU8Mbw0HN\",\"expanded_url\":\"http:\\/\\/cra.in\\/ZCmanMs\",\"display_url\":\"cra.in\\/ZCmanMs\",\"indices\":[105,128]}]},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\\" rel=\\\"nofollow\\\"\\u003eTwitter Web Client\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":1,\"favorite_count\":3,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"FFFFFF\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":true,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/1231909459\\/C-thumbnail-copy_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1231909459\\/C-thumbnail-copy_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/18148466\\/1530912701\",\"profile_link_color\":\"111C8F\",\"profile_sidebar_border_color\":\"FFFFFF\",\"profile_sidebar_fill_color\":\"D6D6D6\",\"profile_text_color\":\"0A0000\",\"profile_use_background_image\":true,\"has_extended_profile\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":24939832,\"id_str\":\"24939832\",\"name\":\"Chicago ParkDistrict\",\"screen_name\":\"ChicagoParks\",\"location\":\"Chicago, IL\",\"description\":\"The official Twitter page for the Chicago Park District. 597 parks, 26 miles of lakefront, 70 nature areas, & hundreds programs.This page is not monitored 24-7.\",\"url\":\"https:\\/\\/t.co\\/IsmalOTv8A\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/IsmalOTv8A\",\"expanded_url\":\"http:\\/\\/www.chicagoparkdistrict.com\",\"display_url\":\"chicagoparkdistrict.com\",\"indices\":[0,23]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":54174,\"friends_count\":1736,\"listed_count\":1055,\"created_at\":\"Tue Mar 17 19:43:39 +0000 2009\",\"favourites_count\":4215,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":true,\"verified\":true,\"statuses_count\":11602,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Jul 07 13:01:12 +0000 2018\",\"id\":1015581497749843970,\"id_str\":\"1015581497749843970\",\"text\":\"Showing tonight 7\\/7\\/18\\nJumanji: Welcome to the Jungle  (PG-13) at OzPark\\nLooney Tunes Cartoon Pack #4 (NR) at India\\u2026 https:\\/\\/t.co\\/GXeM5rVw64\",\"truncated\":true,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/GXeM5rVw64\",\"expanded_url\":\"https:\\/\\/twitter.com\\/i\\/web\\/status\\/1015581497749843970\",\"display_url\":\"twitter.com\\/i\\/web\\/status\\/1\\u2026\",\"indices\":[117,140]}]},\"source\":\"\\u003ca href=\\\"https:\\/\\/www.hootsuite.com\\\" rel=\\\"nofollow\\\"\\u003eHootsuite Inc.\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":1,\"favorite_count\":2,\"favorited\":false,\"retweeted\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"1431C7\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme3\\/bg.gif\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme3\\/bg.gif\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/799676777165717508\\/SqBtgEfK_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/799676777165717508\\/SqBtgEfK_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/24939832\\/1526914082\",\"profile_link_color\":\"93A644\",\"profile_sidebar_border_color\":\"FFFFFF\",\"profile_sidebar_fill_color\":\"15612D\",\"profile_text_color\":\"000000\",\"profile_use_background_image\":true,\"has_extended_profile\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":14693265,\"id_str\":\"14693265\",\"name\":\"Rick Pearson\",\"screen_name\":\"rap30\",\"location\":\"Chicago, IL\",\"description\":\"Chicago Tribune political reporter Host of The Sunday Spin 7-9 am Sundays on WGN-AM (720). Tweets are my own. RTs don\\u2019t = endorsement.\",\"url\":\"https:\\/\\/t.co\\/gaVbUBVQp3\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/gaVbUBVQp3\",\"expanded_url\":\"http:\\/\\/chicagotribune.com\",\"display_url\":\"chicagotribune.com\",\"indices\":[0,23]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":9308,\"friends_count\":870,\"listed_count\":453,\"created_at\":\"Wed May 07 23:12:22 +0000 2008\",\"favourites_count\":5992,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":false,\"verified\":true,\"statuses_count\":18649,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Jul 07 05:17:48 +0000 2018\",\"id\":1015464878994272256,\"id_str\":\"1015464878994272256\",\"text\":\"RT @chicagotribune: A look at Saturday's Tribune front page: stories by @JohnKeilman @_johnbyrne @JeremyGorner @neacynewslady and photos by\\u2026\",\"truncated\":false,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"chicagotribune\",\"name\":\"Chicago Tribune\",\"id\":7313362,\"id_str\":\"7313362\",\"indices\":[3,18]},{\"screen_name\":\"JohnKeilman\",\"name\":\"John Keilman\",\"id\":11544782,\"id_str\":\"11544782\",\"indices\":[72,84]},{\"screen_name\":\"_johnbyrne\",\"name\":\"John Byrne\",\"id\":22962886,\"id_str\":\"22962886\",\"indices\":[85,96]},{\"screen_name\":\"JeremyGorner\",\"name\":\"Jeremy Gorner\",\"id\":22977915,\"id_str\":\"22977915\",\"indices\":[97,110]},{\"screen_name\":\"neacynewslady\",\"name\":\"Deanese'Neacy'Harris\",\"id\":35633601,\"id_str\":\"35633601\",\"indices\":[111,125]}],\"urls\":[]},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\/download\\/iphone\\\" rel=\\\"nofollow\\\"\\u003eTwitter for iPhone\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"retweeted_status\":{\"created_at\":\"Sat Jul 07 04:57:05 +0000 2018\",\"id\":1015459667873550336,\"id_str\":\"1015459667873550336\",\"text\":\"A look at Saturday's Tribune front page: stories by @JohnKeilman @_johnbyrne @JeremyGorner @neacynewslady and photo\\u2026 https:\\/\\/t.co\\/uF4v9MnTqJ\",\"truncated\":true,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"JohnKeilman\",\"name\":\"John Keilman\",\"id\":11544782,\"id_str\":\"11544782\",\"indices\":[52,64]},{\"screen_name\":\"_johnbyrne\",\"name\":\"John Byrne\",\"id\":22962886,\"id_str\":\"22962886\",\"indices\":[65,76]},{\"screen_name\":\"JeremyGorner\",\"name\":\"Jeremy Gorner\",\"id\":22977915,\"id_str\":\"22977915\",\"indices\":[77,90]},{\"screen_name\":\"neacynewslady\",\"name\":\"Deanese'Neacy'Harris\",\"id\":35633601,\"id_str\":\"35633601\",\"indices\":[91,105]}],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/uF4v9MnTqJ\",\"expanded_url\":\"https:\\/\\/twitter.com\\/i\\/web\\/status\\/1015459667873550336\",\"display_url\":\"twitter.com\\/i\\/web\\/status\\/1\\u2026\",\"indices\":[117,140]}]},\"source\":\"\\u003ca href=\\\"http:\\/\\/www.socialflow.com\\\" rel=\\\"nofollow\\\"\\u003eSocialFlow\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":8,\"favorite_count\":9,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"is_quote_status\":false,\"retweet_count\":8,\"favorite_count\":0,\"favorited\":false,\"retweeted\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"C0DEED\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/618596341585854465\\/cjak7dV1_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/618596341585854465\\/cjak7dV1_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/14693265\\/1434743191\",\"profile_link_color\":\"1DA1F2\",\"profile_sidebar_border_color\":\"C0DEED\",\"profile_sidebar_fill_color\":\"DDEEF6\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"has_extended_profile\":true,\"default_profile\":true,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":17783380,\"id_str\":\"17783380\",\"name\":\"Liam T.A. Ford\",\"screen_name\":\"ltaford\",\"location\":\"Chicago\",\"description\":\"Trib since '98. Beekeeper. Chicagoan. Soldier Field book https:\\/\\/t.co\\/Hj3bXIuuQc\",\"url\":\"https:\\/\\/t.co\\/MiAMIgCRIZ\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/MiAMIgCRIZ\",\"expanded_url\":\"http:\\/\\/www.chicagotribune.com\",\"display_url\":\"chicagotribune.com\",\"indices\":[0,23]}]},\"description\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/Hj3bXIuuQc\",\"expanded_url\":\"http:\\/\\/amazon.com\\/author\\/liamford\",\"display_url\":\"amazon.com\\/author\\/liamford\",\"indices\":[57,80]}]}},\"protected\":false,\"followers_count\":4738,\"friends_count\":4010,\"listed_count\":261,\"created_at\":\"Mon Dec 01 17:12:14 +0000 2008\",\"favourites_count\":3888,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":true,\"verified\":true,\"statuses_count\":16421,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Jul 07 14:07:06 +0000 2018\",\"id\":1015598081180651520,\"id_str\":\"1015598081180651520\",\"text\":\"RT @JeremyGorner: Marchers and church reps from St. Sabina set up at 79th and State streets. https:\\/\\/t.co\\/g6cME9GtZb\",\"truncated\":false,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"JeremyGorner\",\"name\":\"Jeremy Gorner\",\"id\":22977915,\"id_str\":\"22977915\",\"indices\":[3,16]}],\"urls\":[],\"media\":[{\"id\":1015597494489829378,\"id_str\":\"1015597494489829378\",\"indices\":[93,116],\"media_url\":\"http:\\/\\/pbs.twimg.com\\/media\\/DhggilXX0AIdaty.jpg\",\"media_url_https\":\"https:\\/\\/pbs.twimg.com\\/media\\/DhggilXX0AIdaty.jpg\",\"url\":\"https:\\/\\/t.co\\/g6cME9GtZb\",\"display_url\":\"pic.twitter.com\\/g6cME9GtZb\",\"expanded_url\":\"https:\\/\\/twitter.com\\/JeremyGorner\\/status\\/1015597502811246592\\/photo\\/1\",\"type\":\"photo\",\"sizes\":{\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"small\":{\"w\":680,\"h\":510,\"resize\":\"fit\"},\"large\":{\"w\":2048,\"h\":1536,\"resize\":\"fit\"},\"medium\":{\"w\":1200,\"h\":900,\"resize\":\"fit\"}},\"source_status_id\":1015597502811246592,\"source_status_id_str\":\"1015597502811246592\",\"source_user_id\":22977915,\"source_user_id_str\":\"22977915\"}]},\"extended_entities\":{\"media\":[{\"id\":1015597494489829378,\"id_str\":\"1015597494489829378\",\"indices\":[93,116],\"media_url\":\"http:\\/\\/pbs.twimg.com\\/media\\/DhggilXX0AIdaty.jpg\",\"media_url_https\":\"https:\\/\\/pbs.twimg.com\\/media\\/DhggilXX0AIdaty.jpg\",\"url\":\"https:\\/\\/t.co\\/g6cME9GtZb\",\"display_url\":\"pic.twitter.com\\/g6cME9GtZb\",\"expanded_url\":\"https:\\/\\/twitter.com\\/JeremyGorner\\/status\\/1015597502811246592\\/photo\\/1\",\"type\":\"photo\",\"sizes\":{\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"small\":{\"w\":680,\"h\":510,\"resize\":\"fit\"},\"large\":{\"w\":2048,\"h\":1536,\"resize\":\"fit\"},\"medium\":{\"w\":1200,\"h\":900,\"resize\":\"fit\"}},\"source_status_id\":1015597502811246592,\"source_status_id_str\":\"1015597502811246592\",\"source_user_id\":22977915,\"source_user_id_str\":\"22977915\"},{\"id\":1015597494716248064,\"id_str\":\"1015597494716248064\",\"indices\":[93,116],\"media_url\":\"http:\\/\\/pbs.twimg.com\\/media\\/DhggimNWsAAf7Rt.jpg\",\"media_url_https\":\"https:\\/\\/pbs.twimg.com\\/media\\/DhggimNWsAAf7Rt.jpg\",\"url\":\"https:\\/\\/t.co\\/g6cME9GtZb\",\"display_url\":\"pic.twitter.com\\/g6cME9GtZb\",\"expanded_url\":\"https:\\/\\/twitter.com\\/JeremyGorner\\/status\\/1015597502811246592\\/photo\\/1\",\"type\":\"photo\",\"sizes\":{\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"medium\":{\"w\":1200,\"h\":900,\"resize\":\"fit\"},\"large\":{\"w\":2048,\"h\":1536,\"resize\":\"fit\"},\"small\":{\"w\":680,\"h\":510,\"resize\":\"fit\"}},\"source_status_id\":1015597502811246592,\"source_status_id_str\":\"1015597502811246592\",\"source_user_id\":22977915,\"source_user_id_str\":\"22977915\"},{\"id\":1015597494397530112,\"id_str\":\"1015597494397530112\",\"indices\":[93,116],\"media_url\":\"http:\\/\\/pbs.twimg.com\\/media\\/DhggilBXcAAoqKk.jpg\",\"media_url_https\":\"https:\\/\\/pbs.twimg.com\\/media\\/DhggilBXcAAoqKk.jpg\",\"url\":\"https:\\/\\/t.co\\/g6cME9GtZb\",\"display_url\":\"pic.twitter.com\\/g6cME9GtZb\",\"expanded_url\":\"https:\\/\\/twitter.com\\/JeremyGorner\\/status\\/1015597502811246592\\/photo\\/1\",\"type\":\"photo\",\"sizes\":{\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"large\":{\"w\":2048,\"h\":1536,\"resize\":\"fit\"},\"small\":{\"w\":680,\"h\":510,\"resize\":\"fit\"},\"medium\":{\"w\":1200,\"h\":900,\"resize\":\"fit\"}},\"source_status_id\":1015597502811246592,\"source_status_id_str\":\"1015597502811246592\",\"source_user_id\":22977915,\"source_user_id_str\":\"22977915\"},{\"id\":1015597494389084160,\"id_str\":\"1015597494389084160\",\"indices\":[93,116],\"media_url\":\"http:\\/\\/pbs.twimg.com\\/media\\/Dhggik_WkAAujtm.jpg\",\"media_url_https\":\"https:\\/\\/pbs.twimg.com\\/media\\/Dhggik_WkAAujtm.jpg\",\"url\":\"https:\\/\\/t.co\\/g6cME9GtZb\",\"display_url\":\"pic.twitter.com\\/g6cME9GtZb\",\"expanded_url\":\"https:\\/\\/twitter.com\\/JeremyGorner\\/status\\/1015597502811246592\\/photo\\/1\",\"type\":\"photo\",\"sizes\":{\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"small\":{\"w\":680,\"h\":510,\"resize\":\"fit\"},\"large\":{\"w\":2048,\"h\":1536,\"resize\":\"fit\"},\"medium\":{\"w\":1200,\"h\":900,\"resize\":\"fit\"}},\"source_status_id\":1015597502811246592,\"source_status_id_str\":\"1015597502811246592\",\"source_user_id\":22977915,\"source_user_id_str\":\"22977915\"}]},\"source\":\"\\u003ca href=\\\"https:\\/\\/about.twitter.com\\/products\\/tweetdeck\\\" rel=\\\"nofollow\\\"\\u003eTweetDeck\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"retweeted_status\":{\"created_at\":\"Sat Jul 07 14:04:48 +0000 2018\",\"id\":1015597502811246592,\"id_str\":\"1015597502811246592\",\"text\":\"Marchers and church reps from St. Sabina set up at 79th and State streets. https:\\/\\/t.co\\/g6cME9GtZb\",\"truncated\":false,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[],\"media\":[{\"id\":1015597494489829378,\"id_str\":\"1015597494489829378\",\"indices\":[75,98],\"media_url\":\"http:\\/\\/pbs.twimg.com\\/media\\/DhggilXX0AIdaty.jpg\",\"media_url_https\":\"https:\\/\\/pbs.twimg.com\\/media\\/DhggilXX0AIdaty.jpg\",\"url\":\"https:\\/\\/t.co\\/g6cME9GtZb\",\"display_url\":\"pic.twitter.com\\/g6cME9GtZb\",\"expanded_url\":\"https:\\/\\/twitter.com\\/JeremyGorner\\/status\\/1015597502811246592\\/photo\\/1\",\"type\":\"photo\",\"sizes\":{\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"small\":{\"w\":680,\"h\":510,\"resize\":\"fit\"},\"large\":{\"w\":2048,\"h\":1536,\"resize\":\"fit\"},\"medium\":{\"w\":1200,\"h\":900,\"resize\":\"fit\"}}}]},\"extended_entities\":{\"media\":[{\"id\":1015597494489829378,\"id_str\":\"1015597494489829378\",\"indices\":[75,98],\"media_url\":\"http:\\/\\/pbs.twimg.com\\/media\\/DhggilXX0AIdaty.jpg\",\"media_url_https\":\"https:\\/\\/pbs.twimg.com\\/media\\/DhggilXX0AIdaty.jpg\",\"url\":\"https:\\/\\/t.co\\/g6cME9GtZb\",\"display_url\":\"pic.twitter.com\\/g6cME9GtZb\",\"expanded_url\":\"https:\\/\\/twitter.com\\/JeremyGorner\\/status\\/1015597502811246592\\/photo\\/1\",\"type\":\"photo\",\"sizes\":{\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"small\":{\"w\":680,\"h\":510,\"resize\":\"fit\"},\"large\":{\"w\":2048,\"h\":1536,\"resize\":\"fit\"},\"medium\":{\"w\":1200,\"h\":900,\"resize\":\"fit\"}}},{\"id\":1015597494716248064,\"id_str\":\"1015597494716248064\",\"indices\":[75,98],\"media_url\":\"http:\\/\\/pbs.twimg.com\\/media\\/DhggimNWsAAf7Rt.jpg\",\"media_url_https\":\"https:\\/\\/pbs.twimg.com\\/media\\/DhggimNWsAAf7Rt.jpg\",\"url\":\"https:\\/\\/t.co\\/g6cME9GtZb\",\"display_url\":\"pic.twitter.com\\/g6cME9GtZb\",\"expanded_url\":\"https:\\/\\/twitter.com\\/JeremyGorner\\/status\\/1015597502811246592\\/photo\\/1\",\"type\":\"photo\",\"sizes\":{\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"medium\":{\"w\":1200,\"h\":900,\"resize\":\"fit\"},\"large\":{\"w\":2048,\"h\":1536,\"resize\":\"fit\"},\"small\":{\"w\":680,\"h\":510,\"resize\":\"fit\"}}},{\"id\":1015597494397530112,\"id_str\":\"1015597494397530112\",\"indices\":[75,98],\"media_url\":\"http:\\/\\/pbs.twimg.com\\/media\\/DhggilBXcAAoqKk.jpg\",\"media_url_https\":\"https:\\/\\/pbs.twimg.com\\/media\\/DhggilBXcAAoqKk.jpg\",\"url\":\"https:\\/\\/t.co\\/g6cME9GtZb\",\"display_url\":\"pic.twitter.com\\/g6cME9GtZb\",\"expanded_url\":\"https:\\/\\/twitter.com\\/JeremyGorner\\/status\\/1015597502811246592\\/photo\\/1\",\"type\":\"photo\",\"sizes\":{\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"large\":{\"w\":2048,\"h\":1536,\"resize\":\"fit\"},\"small\":{\"w\":680,\"h\":510,\"resize\":\"fit\"},\"medium\":{\"w\":1200,\"h\":900,\"resize\":\"fit\"}}},{\"id\":1015597494389084160,\"id_str\":\"1015597494389084160\",\"indices\":[75,98],\"media_url\":\"http:\\/\\/pbs.twimg.com\\/media\\/Dhggik_WkAAujtm.jpg\",\"media_url_https\":\"https:\\/\\/pbs.twimg.com\\/media\\/Dhggik_WkAAujtm.jpg\",\"url\":\"https:\\/\\/t.co\\/g6cME9GtZb\",\"display_url\":\"pic.twitter.com\\/g6cME9GtZb\",\"expanded_url\":\"https:\\/\\/twitter.com\\/JeremyGorner\\/status\\/1015597502811246592\\/photo\\/1\",\"type\":\"photo\",\"sizes\":{\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"small\":{\"w\":680,\"h\":510,\"resize\":\"fit\"},\"large\":{\"w\":2048,\"h\":1536,\"resize\":\"fit\"},\"medium\":{\"w\":1200,\"h\":900,\"resize\":\"fit\"}}}]},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\/download\\/iphone\\\" rel=\\\"nofollow\\\"\\u003eTwitter for iPhone\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":5,\"favorite_count\":7,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"is_quote_status\":false,\"retweet_count\":5,\"favorite_count\":0,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"9AE4E8\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":true,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/994381611578904577\\/0blRpFxz_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/994381611578904577\\/0blRpFxz_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/17783380\\/1525913679\",\"profile_link_color\":\"0084B4\",\"profile_sidebar_border_color\":\"FFFFFF\",\"profile_sidebar_fill_color\":\"DDFFCC\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"has_extended_profile\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":580649124,\"id_str\":\"580649124\",\"name\":\"Kim Janssen\",\"screen_name\":\"kimjnews\",\"location\":\"Chicago IL\",\"description\":\"Chicago Tribune\\/ \\\"like Kardashian, or Jong-un\\\"\",\"url\":\"https:\\/\\/t.co\\/gaVbUBVQp3\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/gaVbUBVQp3\",\"expanded_url\":\"http:\\/\\/chicagotribune.com\",\"display_url\":\"chicagotribune.com\",\"indices\":[0,23]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":4269,\"friends_count\":1754,\"listed_count\":215,\"created_at\":\"Tue May 15 05:16:27 +0000 2012\",\"favourites_count\":6856,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":true,\"verified\":true,\"statuses_count\":15188,\"lang\":\"en\",\"status\":{\"created_at\":\"Thu Jul 05 23:59:00 +0000 2018\",\"id\":1015022261873541120,\"id_str\":\"1015022261873541120\",\"text\":\"RT @chicagotribune: Taste of Chicago performers won't get their requested Pepperidge Farm cookies, \\\"good beer\\\" or Centrum, according to con\\u2026\",\"truncated\":false,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"chicagotribune\",\"name\":\"Chicago Tribune\",\"id\":7313362,\"id_str\":\"7313362\",\"indices\":[3,18]}],\"urls\":[]},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\\" rel=\\\"nofollow\\\"\\u003eTwitter Web Client\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"retweeted_status\":{\"created_at\":\"Thu Jul 05 23:16:22 +0000 2018\",\"id\":1015011534735585281,\"id_str\":\"1015011534735585281\",\"text\":\"Taste of Chicago performers won't get their requested Pepperidge Farm cookies, \\\"good beer\\\" or Centrum, according to\\u2026 https:\\/\\/t.co\\/tDoXHPC9jy\",\"truncated\":true,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/tDoXHPC9jy\",\"expanded_url\":\"https:\\/\\/twitter.com\\/i\\/web\\/status\\/1015011534735585281\",\"display_url\":\"twitter.com\\/i\\/web\\/status\\/1\\u2026\",\"indices\":[117,140]}]},\"source\":\"\\u003ca href=\\\"http:\\/\\/www.socialflow.com\\\" rel=\\\"nofollow\\\"\\u003eSocialFlow\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":6,\"favorite_count\":13,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"is_quote_status\":false,\"retweet_count\":6,\"favorite_count\":0,\"favorited\":false,\"retweeted\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"C0DEED\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/693300771979411456\\/NTgY2Mv8_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/693300771979411456\\/NTgY2Mv8_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/580649124\\/1520623782\",\"profile_link_color\":\"B30000\",\"profile_sidebar_border_color\":\"C0DEED\",\"profile_sidebar_fill_color\":\"DDEEF6\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"has_extended_profile\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":126371225,\"id_str\":\"126371225\",\"name\":\"Tony Briscoe\",\"screen_name\":\"_TonyBriscoe\",\"location\":\"Chicago, Ill.\",\"description\":\"@ChicagoTribune reporter w\\/ interests in climate science, the Great Lakes and everyday neighborhood news.  Email: tbriscoe@chicagotribune.com\",\"url\":\"https:\\/\\/t.co\\/MiAMIgCRIZ\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/MiAMIgCRIZ\",\"expanded_url\":\"http:\\/\\/www.chicagotribune.com\",\"display_url\":\"chicagotribune.com\",\"indices\":[0,23]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":3859,\"friends_count\":1186,\"listed_count\":205,\"created_at\":\"Thu Mar 25 17:10:57 +0000 2010\",\"favourites_count\":1610,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":true,\"verified\":true,\"statuses_count\":6980,\"lang\":\"en\",\"status\":{\"created_at\":\"Fri Jul 06 19:34:00 +0000 2018\",\"id\":1015317960842514432,\"id_str\":\"1015317960842514432\",\"text\":\"RT @nytclimate: Environmental rules being rolled back under Donald Trump:\\n\\ud83c\\udfed Air pollution &amp; emissions: 18\\n\\ud83d\\udee2\\ufe0f Drilling &amp; extraction: 17\\n\\ud83c\\udf09 In\\u2026\",\"truncated\":false,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"nytclimate\",\"name\":\"NYT Climate\",\"id\":14603515,\"id_str\":\"14603515\",\"indices\":[3,14]}],\"urls\":[]},\"source\":\"\\u003ca href=\\\"https:\\/\\/about.twitter.com\\/products\\/tweetdeck\\\" rel=\\\"nofollow\\\"\\u003eTweetDeck\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"retweeted_status\":{\"created_at\":\"Fri Jul 06 15:53:02 +0000 2018\",\"id\":1015262353552805888,\"id_str\":\"1015262353552805888\",\"text\":\"Environmental rules being rolled back under Donald Trump:\\n\\ud83c\\udfed Air pollution &amp; emissions: 18\\n\\ud83d\\udee2\\ufe0f Drilling &amp; extraction:\\u2026 https:\\/\\/t.co\\/HOsjrrE4Oa\",\"truncated\":true,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/HOsjrrE4Oa\",\"expanded_url\":\"https:\\/\\/twitter.com\\/i\\/web\\/status\\/1015262353552805888\",\"display_url\":\"twitter.com\\/i\\/web\\/status\\/1\\u2026\",\"indices\":[125,148]}]},\"source\":\"\\u003ca href=\\\"http:\\/\\/www.socialflow.com\\\" rel=\\\"nofollow\\\"\\u003eSocialFlow\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":870,\"favorite_count\":501,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"is_quote_status\":false,\"retweet_count\":870,\"favorite_count\":0,\"favorited\":false,\"retweeted\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"022330\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme15\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme15\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/1005171926367723521\\/oOL0lH0E_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1005171926367723521\\/oOL0lH0E_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/126371225\\/1523454995\",\"profile_link_color\":\"0084B4\",\"profile_sidebar_border_color\":\"A8C7F7\",\"profile_sidebar_fill_color\":\"C0DFEC\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"has_extended_profile\":true,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":23513475,\"id_str\":\"23513475\",\"name\":\"Angela Rozas O'Toole\",\"screen_name\":\"AngelaRozas\",\"location\":\"Chicago\",\"description\":\"Deputy metro editor @ChicagoTribune. Music lover, coffee drinker and follower of barometric pressure\",\"url\":\"http:\\/\\/t.co\\/MiAMIgCRIZ\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"http:\\/\\/t.co\\/MiAMIgCRIZ\",\"expanded_url\":\"http:\\/\\/www.chicagotribune.com\",\"display_url\":\"chicagotribune.com\",\"indices\":[0,22]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":2416,\"friends_count\":554,\"listed_count\":113,\"created_at\":\"Mon Mar 09 22:21:36 +0000 2009\",\"favourites_count\":91,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":false,\"verified\":true,\"statuses_count\":2193,\"lang\":\"en\",\"status\":{\"created_at\":\"Fri Jun 01 14:19:12 +0000 2018\",\"id\":1002555165314932736,\"id_str\":\"1002555165314932736\",\"text\":\"Chicago schools fail to protect students from sexual abuse and assault, leaving lasting damage https:\\/\\/t.co\\/TdUP1Z5Pqv\",\"truncated\":false,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/TdUP1Z5Pqv\",\"expanded_url\":\"http:\\/\\/graphics.chicagotribune.com\\/chicago-public-schools-sexual-abuse\\/index.html\",\"display_url\":\"graphics.chicagotribune.com\\/chicago-public\\u2026\",\"indices\":[95,118]}]},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\\" rel=\\\"nofollow\\\"\\u003eTwitter Web Client\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":0,\"favorite_count\":2,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"1A1B1F\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme9\\/bg.gif\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme9\\/bg.gif\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/1795122163\\/angelachristmas_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1795122163\\/angelachristmas_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/23513475\\/1406918285\",\"profile_link_color\":\"2FC2EF\",\"profile_sidebar_border_color\":\"181A1E\",\"profile_sidebar_fill_color\":\"252429\",\"profile_text_color\":\"666666\",\"profile_use_background_image\":true,\"has_extended_profile\":true,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":937179288,\"id_str\":\"937179288\",\"name\":\"Lolly Bowean\",\"screen_name\":\"lollybowean\",\"location\":\"Chicago. Cambridge\",\"description\":\"Writer. Storyteller. 2017 Harvard University Nieman Fellow. Reporter. News Enthusiast. Self-Appointed Community Helper. Music Lover. Listener.\",\"url\":\"https:\\/\\/t.co\\/gaVbUBVQp3\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/gaVbUBVQp3\",\"expanded_url\":\"http:\\/\\/chicagotribune.com\",\"display_url\":\"chicagotribune.com\",\"indices\":[0,23]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":4215,\"friends_count\":2382,\"listed_count\":168,\"created_at\":\"Fri Nov 09 15:46:57 +0000 2012\",\"favourites_count\":19046,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":false,\"verified\":true,\"statuses_count\":15514,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Jul 07 01:23:45 +0000 2018\",\"id\":1015405977917640705,\"id_str\":\"1015405977917640705\",\"text\":\"RT @Longreads: Ukrainian author and poet @serhiy_zhadan writes about resisting corruption and coping with loss in a society that is spirali\\u2026\",\"truncated\":false,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"Longreads\",\"name\":\"Longreads\",\"id\":32423136,\"id_str\":\"32423136\",\"indices\":[3,13]},{\"screen_name\":\"serhiy_zhadan\",\"name\":\"Serhiy Zhadan\",\"id\":831898156048740352,\"id_str\":\"831898156048740352\",\"indices\":[41,55]}],\"urls\":[]},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\/download\\/iphone\\\" rel=\\\"nofollow\\\"\\u003eTwitter for iPhone\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"retweeted_status\":{\"created_at\":\"Sat Jul 07 01:20:04 +0000 2018\",\"id\":1015405053102952448,\"id_str\":\"1015405053102952448\",\"text\":\"Ukrainian author and poet @serhiy_zhadan writes about resisting corruption and coping with loss in a society that i\\u2026 https:\\/\\/t.co\\/JPhyuYAyEq\",\"truncated\":true,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"serhiy_zhadan\",\"name\":\"Serhiy Zhadan\",\"id\":831898156048740352,\"id_str\":\"831898156048740352\",\"indices\":[26,40]}],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/JPhyuYAyEq\",\"expanded_url\":\"https:\\/\\/twitter.com\\/i\\/web\\/status\\/1015405053102952448\",\"display_url\":\"twitter.com\\/i\\/web\\/status\\/1\\u2026\",\"indices\":[117,140]}]},\"source\":\"\\u003ca href=\\\"https:\\/\\/buffer.com\\\" rel=\\\"nofollow\\\"\\u003eBuffer\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":5,\"favorite_count\":11,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"is_quote_status\":false,\"retweet_count\":5,\"favorite_count\":0,\"favorited\":false,\"retweeted\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"C0DEED\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/816130174110593025\\/Ic-QDgpK_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/816130174110593025\\/Ic-QDgpK_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/937179288\\/1483415572\",\"profile_link_color\":\"1DA1F2\",\"profile_sidebar_border_color\":\"C0DEED\",\"profile_sidebar_fill_color\":\"DDEEF6\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"has_extended_profile\":false,\"default_profile\":true,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":36451429,\"id_str\":\"36451429\",\"name\":\"Samantha Bomkamp\",\"screen_name\":\"SamWillTravel\",\"location\":\"Chicago\",\"description\":\"Business reporter for the @ChicagoTribune. Former digital type. Obsessed with the ocean, elephants and Sophie the Dog.\",\"url\":\"http:\\/\\/t.co\\/MiAMIglgkp\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"http:\\/\\/t.co\\/MiAMIglgkp\",\"expanded_url\":\"http:\\/\\/www.chicagotribune.com\",\"display_url\":\"chicagotribune.com\",\"indices\":[0,22]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":4163,\"friends_count\":2385,\"listed_count\":213,\"created_at\":\"Wed Apr 29 19:27:15 +0000 2009\",\"favourites_count\":1238,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":true,\"verified\":true,\"statuses_count\":3626,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Jul 07 00:03:52 +0000 2018\",\"id\":1015385875889483776,\"id_str\":\"1015385875889483776\",\"text\":\"This is the one place in Illinois where a trade war is a good thing https:\\/\\/t.co\\/w5XzHjErEr\",\"truncated\":false,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/w5XzHjErEr\",\"expanded_url\":\"http:\\/\\/www.chicagotribune.com\\/business\\/ct-biz-granite-city-us-steel-trump-tariffs-20180708-story.html\",\"display_url\":\"chicagotribune.com\\/business\\/ct-bi\\u2026\",\"indices\":[68,91]}]},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\\" rel=\\\"nofollow\\\"\\u003eTwitter Web Client\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":0,\"favorite_count\":0,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"B2DFDA\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme13\\/bg.gif\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme13\\/bg.gif\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/436579011808874496\\/LhbYNWX8_normal.jpeg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/436579011808874496\\/LhbYNWX8_normal.jpeg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/36451429\\/1446569866\",\"profile_link_color\":\"93A644\",\"profile_sidebar_border_color\":\"EEEEEE\",\"profile_sidebar_fill_color\":\"FFFFFF\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"has_extended_profile\":true,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":329856131,\"id_str\":\"329856131\",\"name\":\"Juan Perez Jr.\",\"screen_name\":\"PerezJr\",\"location\":\"Chicago\",\"description\":\"#CPS reporter @chicagotribune. Nebraskan. Tips, questions, care packages, hate mail? DM or email jjperez@chicagotribune.com \\u2192 RT's could mean anything.\",\"url\":\"http:\\/\\/t.co\\/iVG9VlFD4a\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"http:\\/\\/t.co\\/iVG9VlFD4a\",\"expanded_url\":\"http:\\/\\/chicagotribune.com\",\"display_url\":\"chicagotribune.com\",\"indices\":[0,22]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":2856,\"friends_count\":983,\"listed_count\":142,\"created_at\":\"Tue Jul 05 18:37:14 +0000 2011\",\"favourites_count\":4046,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":false,\"verified\":true,\"statuses_count\":6151,\"lang\":\"en\",\"status\":{\"created_at\":\"Fri Jul 06 15:17:52 +0000 2018\",\"id\":1015253504061997056,\"id_str\":\"1015253504061997056\",\"text\":\"A new open-enrollment high school on the Near West Side is part of a $989M CPS capital plan now planned for FY19. C\\u2026 https:\\/\\/t.co\\/4uxhdeDKd8\",\"truncated\":true,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/4uxhdeDKd8\",\"expanded_url\":\"https:\\/\\/twitter.com\\/i\\/web\\/status\\/1015253504061997056\",\"display_url\":\"twitter.com\\/i\\/web\\/status\\/1\\u2026\",\"indices\":[117,140]}]},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\\" rel=\\\"nofollow\\\"\\u003eTwitter Web Client\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":1,\"favorite_count\":0,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"131516\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme14\\/bg.gif\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme14\\/bg.gif\",\"profile_background_tile\":true,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/2165635783\\/image_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/2165635783\\/image_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/329856131\\/1426426096\",\"profile_link_color\":\"103F91\",\"profile_sidebar_border_color\":\"EEEEEE\",\"profile_sidebar_fill_color\":\"EFEFEF\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"has_extended_profile\":true,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":16688883,\"id_str\":\"16688883\",\"name\":\"Lookingglass Theatre\",\"screen_name\":\"gglasstheatre\",\"location\":\"Michigan Avenue, Chicago IL\",\"description\":\"Recipient of the 2011 Regional Theater Tony Award. Live theatre in the historic Water Tower Water Works.\",\"url\":\"https:\\/\\/t.co\\/hXzxzqmfgk\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/hXzxzqmfgk\",\"expanded_url\":\"https:\\/\\/lookingglasstheatre.org\\/event\\/20k\\/\",\"display_url\":\"lookingglasstheatre.org\\/event\\/20k\\/\",\"indices\":[0,23]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":15876,\"friends_count\":4155,\"listed_count\":525,\"created_at\":\"Fri Oct 10 20:47:44 +0000 2008\",\"favourites_count\":4307,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":true,\"verified\":false,\"statuses_count\":2951,\"lang\":\"en\",\"status\":{\"created_at\":\"Fri Jul 06 20:21:58 +0000 2018\",\"id\":1015330033307668480,\"id_str\":\"1015330033307668480\",\"text\":\"Hey @neymarjr why don\\u2019t you come see 20,000 Leagues Under the Seas? It\\u2019s perfect for anyone who loves acting, and s\\u2026 https:\\/\\/t.co\\/KLpHDqehPu\",\"truncated\":true,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[{\"screen_name\":\"neymarjr\",\"name\":\"Neymar Jr\",\"id\":158487331,\"id_str\":\"158487331\",\"indices\":[4,13]}],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/KLpHDqehPu\",\"expanded_url\":\"https:\\/\\/twitter.com\\/i\\/web\\/status\\/1015330033307668480\",\"display_url\":\"twitter.com\\/i\\/web\\/status\\/1\\u2026\",\"indices\":[117,140]}]},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\/download\\/iphone\\\" rel=\\\"nofollow\\\"\\u003eTwitter for iPhone\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":8,\"favorite_count\":50,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"9AE4E8\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":true,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/61689576\\/WTWW_Exterior_Night_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/61689576\\/WTWW_Exterior_Night_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/16688883\\/1358281298\",\"profile_link_color\":\"0084B4\",\"profile_sidebar_border_color\":\"BDDCAD\",\"profile_sidebar_fill_color\":\"DDFFCC\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"has_extended_profile\":true,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":14957318,\"id_str\":\"14957318\",\"name\":\"NBC Chicago\",\"screen_name\":\"nbcchicago\",\"location\":\"Chicago, IL\",\"description\":\"Thank you for stopping by @NBCChicago - the place to go for exclusive local stories, the latest breaking news, weather updates and more.\",\"url\":\"http:\\/\\/t.co\\/S9JTJrKI8A\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"http:\\/\\/t.co\\/S9JTJrKI8A\",\"expanded_url\":\"http:\\/\\/www.nbcchicago.com\\/\",\"display_url\":\"nbcchicago.com\",\"indices\":[0,22]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":427822,\"friends_count\":1509,\"listed_count\":4061,\"created_at\":\"Fri May 30 19:27:34 +0000 2008\",\"favourites_count\":89,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":true,\"verified\":true,\"statuses_count\":152345,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Jul 07 15:17:20 +0000 2018\",\"id\":1015615758737526792,\"id_str\":\"1015615758737526792\",\"text\":\"LIVE COVERAGE: Protesters are now marching onto the Dan Ryan Expressway along with a police escort. Sky 5 is over t\\u2026 https:\\/\\/t.co\\/I97gCGyCZF\",\"truncated\":true,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/I97gCGyCZF\",\"expanded_url\":\"https:\\/\\/twitter.com\\/i\\/web\\/status\\/1015615758737526792\",\"display_url\":\"twitter.com\\/i\\/web\\/status\\/1\\u2026\",\"indices\":[117,140]}]},\"source\":\"\\u003ca href=\\\"http:\\/\\/www.socialflow.com\\\" rel=\\\"nofollow\\\"\\u003eSocialFlow\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":4,\"favorite_count\":7,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"ECECF5\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme2\\/bg.gif\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme2\\/bg.gif\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/973684495604883456\\/bq86JyPW_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/973684495604883456\\/bq86JyPW_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/14957318\\/1520979423\",\"profile_link_color\":\"1F98C7\",\"profile_sidebar_border_color\":\"FFFFFF\",\"profile_sidebar_fill_color\":\"FAFAFA\",\"profile_text_color\":\"663B12\",\"profile_use_background_image\":true,\"has_extended_profile\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"},{\"id\":17028405,\"id_str\":\"17028405\",\"name\":\"ABC 7 Chicago\",\"screen_name\":\"ABC7Chicago\",\"location\":\"Chicago, Illinois\",\"description\":\"Follow ABC 7 Chicago news  for Chicago news, weather, sports and the most experienced Chicago news team\",\"url\":\"http:\\/\\/t.co\\/TUM8nkoDIM\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"http:\\/\\/t.co\\/TUM8nkoDIM\",\"expanded_url\":\"http:\\/\\/abc7chicago.com\",\"display_url\":\"abc7chicago.com\",\"indices\":[0,22]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":756436,\"friends_count\":1519,\"listed_count\":3515,\"created_at\":\"Tue Oct 28 20:47:08 +0000 2008\",\"favourites_count\":230,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":true,\"verified\":true,\"statuses_count\":148282,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Jul 07 15:19:43 +0000 2018\",\"id\":1015616356954312705,\"id_str\":\"1015616356954312705\",\"text\":\"Protesters are now making their way onto the Dan Ryan Expressway: https:\\/\\/t.co\\/PIactnJsqg https:\\/\\/t.co\\/UydjJc1WYE\",\"truncated\":false,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/PIactnJsqg\",\"expanded_url\":\"https:\\/\\/abc7.ws\\/2uesgE6\",\"display_url\":\"abc7.ws\\/2uesgE6\",\"indices\":[66,89]}],\"media\":[{\"id\":1015616343217881089,\"id_str\":\"1015616343217881089\",\"indices\":[90,113],\"media_url\":\"http:\\/\\/pbs.twimg.com\\/media\\/DhgxruWVQAEsfcX.jpg\",\"media_url_https\":\"https:\\/\\/pbs.twimg.com\\/media\\/DhgxruWVQAEsfcX.jpg\",\"url\":\"https:\\/\\/t.co\\/UydjJc1WYE\",\"display_url\":\"pic.twitter.com\\/UydjJc1WYE\",\"expanded_url\":\"https:\\/\\/twitter.com\\/ABC7Chicago\\/status\\/1015616356954312705\\/photo\\/1\",\"type\":\"photo\",\"sizes\":{\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"medium\":{\"w\":1200,\"h\":675,\"resize\":\"fit\"},\"large\":{\"w\":1920,\"h\":1080,\"resize\":\"fit\"},\"small\":{\"w\":680,\"h\":383,\"resize\":\"fit\"}}}]},\"extended_entities\":{\"media\":[{\"id\":1015616343217881089,\"id_str\":\"1015616343217881089\",\"indices\":[90,113],\"media_url\":\"http:\\/\\/pbs.twimg.com\\/media\\/DhgxruWVQAEsfcX.jpg\",\"media_url_https\":\"https:\\/\\/pbs.twimg.com\\/media\\/DhgxruWVQAEsfcX.jpg\",\"url\":\"https:\\/\\/t.co\\/UydjJc1WYE\",\"display_url\":\"pic.twitter.com\\/UydjJc1WYE\",\"expanded_url\":\"https:\\/\\/twitter.com\\/ABC7Chicago\\/status\\/1015616356954312705\\/photo\\/1\",\"type\":\"photo\",\"sizes\":{\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"medium\":{\"w\":1200,\"h\":675,\"resize\":\"fit\"},\"large\":{\"w\":1920,\"h\":1080,\"resize\":\"fit\"},\"small\":{\"w\":680,\"h\":383,\"resize\":\"fit\"}}}]},\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\\" rel=\\\"nofollow\\\"\\u003eTwitter Web Client\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":3,\"favorite_count\":2,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"1F27B5\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme1\\/bg.png\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/459816045805436928\\/ooGeailg_normal.jpeg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/459816045805436928\\/ooGeailg_normal.jpeg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/17028405\\/1398460985\",\"profile_link_color\":\"0084B4\",\"profile_sidebar_border_color\":\"FFFFFF\",\"profile_sidebar_fill_color\":\"DDFFCC\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"has_extended_profile\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"regular\"},{\"id\":12811952,\"id_str\":\"12811952\",\"name\":\"Chicago Sun-Times\",\"screen_name\":\"Suntimes\",\"location\":\"Chicago, IL\",\"description\":\"#SupportSunTimes #Chicago\\nThe hardest-working paper in America. A voice to the powerless, holding the powerful accountable. Subscribe and help us survive.\",\"url\":\"https:\\/\\/t.co\\/1vIQpfvXiH\",\"entities\":{\"url\":{\"urls\":[{\"url\":\"https:\\/\\/t.co\\/1vIQpfvXiH\",\"expanded_url\":\"https:\\/\\/chicago.suntimes.com\\/subscribe\\/\",\"display_url\":\"chicago.suntimes.com\\/subscribe\\/\",\"indices\":[0,23]}]},\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":485437,\"friends_count\":14456,\"listed_count\":6000,\"created_at\":\"Tue Jan 29 02:38:26 +0000 2008\",\"favourites_count\":4806,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":true,\"verified\":true,\"statuses_count\":127292,\"lang\":\"en\",\"status\":{\"created_at\":\"Sat Jul 07 15:20:03 +0000 2018\",\"id\":1015616440467156994,\"id_str\":\"1015616440467156994\",\"text\":\"GCA Educational Services Central States Inc. was recommended for the lucrative, three-year deal to manage facilitie\\u2026 https:\\/\\/t.co\\/qneDhPkiwC\",\"truncated\":true,\"entities\":{\"hashtags\":[],\"symbols\":[],\"user_mentions\":[],\"urls\":[{\"url\":\"https:\\/\\/t.co\\/qneDhPkiwC\",\"expanded_url\":\"https:\\/\\/twitter.com\\/i\\/web\\/status\\/1015616440467156994\",\"display_url\":\"twitter.com\\/i\\/web\\/status\\/1\\u2026\",\"indices\":[117,140]}]},\"source\":\"\\u003ca href=\\\"https:\\/\\/sproutsocial.com\\\" rel=\\\"nofollow\\\"\\u003eSprout Social\\u003c\\/a\\u003e\",\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"is_quote_status\":false,\"retweet_count\":1,\"favorite_count\":0,\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"lang\":\"en\"},\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"FFFFFF\",\"profile_background_image_url\":\"http:\\/\\/abs.twimg.com\\/images\\/themes\\/theme14\\/bg.gif\",\"profile_background_image_url_https\":\"https:\\/\\/abs.twimg.com\\/images\\/themes\\/theme14\\/bg.gif\",\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/985223834243493888\\/Hjb8ei6L_normal.jpg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/985223834243493888\\/Hjb8ei6L_normal.jpg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/12811952\\/1522877783\",\"profile_link_color\":\"DC020A\",\"profile_sidebar_border_color\":\"FFFFFF\",\"profile_sidebar_fill_color\":\"EFEFEF\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":false,\"has_extended_profile\":false,\"default_profile\":false,\"default_profile_image\":false,\"following\":true,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"}]",
+    "headers": {
+      "cache-control": "no-cache, no-store, must-revalidate, pre-check=0, post-check=0",
+      "connection": "close",
+      "content-disposition": "attachment; filename=json.json",
+      "content-length": "72206",
+      "content-type": "application/json;charset=utf-8",
+      "date": "Sat, 07 Jul 2018 15:21:51 GMT",
+      "expires": "Tue, 31 Mar 1981 05:00:00 GMT",
+      "last-modified": "Sat, 07 Jul 2018 15:21:51 GMT",
+      "pragma": "no-cache",
+      "server": "tsa_b",
+      "set-cookie": [
+        "personalization_id=\"v1_UZSk1HewhIp4l9YX+3/BaQ==\"; Expires=Mon, 06 Jul 2020 15:21:51 GMT; Path=/; Domain=.twitter.com",
+        "lang=en; Path=/",
+        "guest_id=v1%3A153097691110170173; Expires=Mon, 06 Jul 2020 15:21:51 GMT; Path=/; Domain=.twitter.com"
+      ],
+      "status": "200 OK",
+      "strict-transport-security": "max-age=631138519",
+      "x-access-level": "read-write",
+      "x-connection-hash": "df70362864629970f7368130dc49fcbd",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN",
+      "x-rate-limit-limit": "900",
+      "x-rate-limit-remaining": "886",
+      "x-rate-limit-reset": "1530977359",
+      "x-response-time": "256",
+      "x-transaction": "003103be0088ccb4",
+      "x-twitter-response-tags": "BouncerCompliant",
+      "x-xss-protection": "1; mode=block; report=https://twitter.com/i/xss_report"
+    },
+    "request": {
+      "uri": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "api.twitter.com",
+        "port": null,
+        "hostname": "api.twitter.com",
+        "hash": null,
+        "search": "?q=chicago",
+        "query": "q=chicago",
+        "pathname": "/1.1/users/search.json",
+        "path": "/1.1/users/search.json?q=chicago",
+        "href": "https://api.twitter.com/1.1/users/search.json?q=chicago"
+      },
+      "method": "get",
+      "headers": {
+        "Accept": "*/*",
+        "Connection": "close",
+        "User-Agent": "node-twitter/1.3.0",
+        "Authorization": "OAuth oauth_consumer_key=\"fx95oKhMHYgytSBmiAqQ\",oauth_nonce=\"80dcd7fba2304c07ba4a050180af8654\",oauth_signature_method=\"HMAC-SHA1\",oauth_timestamp=\"1530976909\",oauth_token=\"2305278770-GGw8dQQg3o5Vqfx9xHpUgJ0CDUe3BoNmUNeWZBg\",oauth_version=\"1.0\",oauth_signature=\"Z57aJjNcLNJu8h3uEvOiQBgeqeU%3D\"",
+        "content-length": 0
+      }
+    }
+  }
+}
