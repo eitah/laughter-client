@@ -15,8 +15,8 @@ class ResultRow extends React.PureComponent {
         return (
             <div tabIndex="0" className="resultRow" onClick={this.handleClick} onKeyPress={this.handleClick}>
                 <div className="leftItems">
-                    <img src={user.profile_image_url}/>
-                    <img src={twitterLogoSvg}/>
+                    <img src={user.profile_image_url} alt={`${screenName}'s profile`} />
+                    <img src={twitterLogoSvg} alt="twitter logo" />
                     <span className="screenName">@{screenName}</span>
                     <span className="userName">{user.name}</span>
                 </div>

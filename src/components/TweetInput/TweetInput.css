@@ -5,7 +5,7 @@
 }
 
 .background {
-  padding-top: 5%;
+  padding: 5% 0;
   background: #4D4D4D;
 }
 
@@ -23,9 +23,9 @@
 .resultsOverlay {
   display: inline-block;
   text-align: left;
-  background: white;
-  margin-top: -10px;
+  margin-top: -6%;
   z-index: 2;
+  background: white;
   border: solid;
   border-top: dashed;
   border-color: gray;

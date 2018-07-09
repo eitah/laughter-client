@@ -1,25 +1,10 @@
 import React, {Component, createRef} from 'react';
 import twitterHandleSearch from '../../services/twitterHandleSearch';
+import {debounce} from 'throttle-debounce';
 
 import './TweetInput.css';
 import ResultRow from './ResultRow/ResultRow';
 import CountRemaining from "./CountRemaining/CountRemaining";
-
-async function getResults(search) {
-    return twitterHandleSearch(search);
-}
-
-function getCurrentWord({tweet, cursorPosition}) {
-    const lastEnter = tweet.lastIndexOf('\n', cursorPosition) + 1;
-    const lastSpace = tweet.lastIndexOf(' ', cursorPosition) + 1;
-    const startOfCurrentWord = Math.max(lastEnter, lastSpace);
-
-    const nextWhitespace = tweet.substr(startOfCurrentWord).match(/\s/);
-    const endOfCurrentWord = (nextWhitespace) ? startOfCurrentWord + nextWhitespace.index : tweet.length;
-
-    let currentWord = tweet.substring(startOfCurrentWord, endOfCurrentWord);
-    return {currentWord, startOfCurrentWord};
-}
 
 class TweetInput extends Component {
     constructor() {
@@ -32,26 +17,35 @@ class TweetInput extends Component {
             startOfCurrentWord: 0,
         };
         this.textarea = createRef();
+        this.performSearchThrottled = debounce(250, this.performSearch);
     }
 
     handleInput = async (e) => {
-        let results, search, userIsSearching;
+        let userIsSearching;
         const tweet = e.target.value;
         const cursorPosition = e.target.selectionStart;
 
         const {startOfCurrentWord, currentWord} = getCurrentWord({tweet, cursorPosition});
 
         if (currentWord.startsWith('@') && currentWord.length > 2) {
-            userIsSearching = true;
-            search = currentWord.substr(1);
-            results = await getResults(search);
-            this.setState({tweet, userIsSearching, startOfCurrentWord, search, results});
+            this.performSearchThrottled({ tweet, currentWord, startOfCurrentWord});
         } else {
             userIsSearching = false;
             this.setState({tweet, userIsSearching, startOfCurrentWord});
         }
     };
 
+    performSearch = async ({tweet, currentWord, startOfCurrentWord}) => {
+        const search = currentWord.substr(1);
+        const results = await twitterHandleSearch(search);
+        this.setState({
+            tweet,
+            userIsSearching: true,
+            startOfCurrentWord,
+            search,
+            results
+        });
+    };
 
     handleOnClick = (event, screenName) => {
         const tweet = this.replaceCurrentSearchWithCorrectHandle(screenName);
@@ -91,6 +85,18 @@ class TweetInput extends Component {
             </div>
         );
     }
+}
+
+function getCurrentWord({tweet, cursorPosition}) {
+    const lastEnter = tweet.lastIndexOf('\n', cursorPosition) + 1;
+    const lastSpace = tweet.lastIndexOf(' ', cursorPosition) + 1;
+    const startOfCurrentWord = Math.max(lastEnter, lastSpace);
+
+    const nextWhitespace = tweet.substr(startOfCurrentWord).match(/\s/);
+    const endOfCurrentWord = (nextWhitespace) ? startOfCurrentWord + nextWhitespace.index : tweet.length;
+
+    let currentWord = tweet.substring(startOfCurrentWord, endOfCurrentWord);
+    return {currentWord, startOfCurrentWord};
 }
 
 export default TweetInput;
